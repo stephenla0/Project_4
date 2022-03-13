@@ -4,9 +4,9 @@ Store is closed today, day 7
 
 Tracker: Day 7
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 9 , 1 , 1
-Shaggy , 0 , 0 , 0
-Daphne , 0 , 0 , 0
+Velma , 13 , 6 , 1
+Shaggy , 11 , 3 , 2
+Daphne , 7 , 3 , 0
 Freddy , 0 , 0 , 0
-Scooby , 10 , 3 , 1
-Frank , 17 , 2 , 0
+Scooby , 0 , 0 , 0
+Frank , 0 , 0 , 0

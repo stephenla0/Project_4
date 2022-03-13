@@ -1,136 +1,136 @@
 *** Simulation of Southside FNMS, day 5 ***
 Store opens today, day 5
-Daphne is working today.
-Daphne has arrived at the store.
-Daphne arrives at store.
-Daphne checking for arriving items.
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
 0 items have been added to inventory.
-The cash register has $2,085.14
-Daphne checks: $2,085.14 in register.
-Daphne is doing inventory.
-Daphne counts 3 paperscore
-Daphne counts 2 cd
-Daphne counts 1 vinyl
-Daphne counts 3 cdplayer
-Daphne counts 2 recordplayer
-Daphne counts 6 mp3
-Daphne counts 2 guitar
-Daphne counts 1 bass
-Daphne counts 3 mandolin
-Daphne counts 3 flute
-Daphne counts 2 harmonica
-Daphne counts 2 hats
-Daphne counts 0 shirts
-Daphne needs to order shirts
-Daphne counts 1 bandanas
-Daphne counts 1 practiceamps
-Daphne counts 0 cables
-Daphne needs to order cables
-Daphne ordered a cables
-Daphne ordered a cables
-Daphne ordered a cables
+The cash register has $1,641.10
+Velma checks: $1,641.10 in register.
+Velma is doing inventory.
+Velma counts 4 paperscore
+Velma counts 2 cd
+Velma counts 2 vinyl
+Velma counts 4 cdplayer
+Velma counts 1 recordplayer
+Velma counts 4 mp3
+Velma counts 3 guitar
+Velma counts 3 bass
+Velma counts 0 mandolin
+Velma needs to order mandolin
+Velma ordered a mandolin
+Velma ordered a mandolin
+Velma ordered a mandolin
 3 items were ordered.
-Daphne counts 3 strings
-Daphne counts 2 gigbag
-Daphne counts 3 cassetteplayer
-Daphne counts 3 cassette
-Daphne counts 3 saxophone
-Daphne is tuning items.
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a recordplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a guitar
-Daphne successfully tuned a bass
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a flute
-Daphne successfully tuned a harmonica
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a saxophone
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a recordplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a guitar
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a flute
-Daphne successfully tuned a harmonica
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a saxophone
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a flute
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a saxophone
-Daphne successfully tuned a mp3
-Daphne successfully tuned a mp3
-Daphne successfully tuned a mp3
-There are 46 items in inventory.
-The total value of the inventory is $1,230.50
+Velma counts 2 flute
+Velma counts 2 harmonica
+Velma counts 1 hats
+Velma counts 3 shirts
+Velma counts 3 bandanas
+Velma counts 2 practiceamps
+Velma counts 1 cables
+Velma counts 2 strings
+Velma counts 2 gigbag
+Velma counts 3 cassetteplayer
+Velma counts 5 cassette
+Velma counts 2 saxophone
+Velma is tuning items.
+Velma successfully tuned a cdplayer
+Velma successfully tuned a recordplayer
+Velma unsuccessfully tuned a mp3
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a bass
+Velma unsuccessfully tuned a flute
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a harmonica
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cdplayer
+Velma successfully tuned a mp3
+Velma successfully tuned a guitar
+Velma successfully tuned a bass
+Velma unsuccessfully tuned a flute
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a harmonica
+Velma successfully tuned a cassetteplayer
+Velma successfully tuned a saxophone
+Velma unsuccessfully tuned a cdplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma unsuccessfully tuned a guitar
+Velma successfully tuned a bass
+Velma unsuccessfully tuned a cassetteplayer
+Velma unsuccessfully tuned a cdplayer
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mp3
+There are 51 items in inventory.
+The total value of the inventory is $1,518.30
 0 items were damaged while tuning.
-Daphne finds 46 items in store, worth $1,230.50
-5 buyers, 3 sellers today.
-Daphne serving Buyer 1
-Buyer 1 wants to buy a cd
-Item is cd in verygood condition.
-Daphne selling at $66.00
-Daphne selling at $59.40
-Daphne is selling cd for $59.40 to Buyer 1
-updated inventory count: 46
-Daphne serving Buyer 2
-Buyer 2 wants to buy a harmonica
-Item is harmonica in excellent condition.
-Daphne selling at $10.00
-Daphne selling at $9.00
-Daphne is selling harmonica for $9.00 to Buyer 2
-updated inventory count: 45
-Daphne serving Buyer 3
-Buyer 3 wants to buy a practiceamps
-Item is practiceamps in good condition.
-Daphne selling at $36.00
-Daphne is selling practiceamps for $36.00 to Buyer 3
-updated inventory count: 44
-Daphne serving Buyer 4
-Buyer 4 wants to buy a paperscore
-Item is paperscore in verygood condition.
-Daphne selling at $26.00
-Daphne is selling paperscore for $26.00 to Buyer 4
-updated inventory count: 43
-Daphne serving Buyer 5
-Buyer 5 wants to buy a cassette
-Item is cassette in good condition.
-Daphne selling at $98.00
-Daphne is selling cassette for $98.00 to Buyer 5
-updated inventory count: 42
-5 items were sold.
-Daphne serving Seller 1
-Seller 1 wants to sell a gigbag
-Item is gigbag in fair condition.
-Daphne offers $16.00
-Daphne is buying gigbag for $16.00 from Seller 1
-Daphne serving Seller 2
-Seller 2 wants to sell a recordplayer
-Item is recordplayer in verygood condition.
-Daphne offers $30.00
-Daphne offers $33.00
-Daphne is buying recordplayer for $33.00 from Seller 2
-Daphne serving Seller 3
-Seller 3 wants to sell a practiceamps
-Item is practiceamps in excellent condition.
-Daphne offers $13.00
-Daphne offers $14.30
-Daphne is buying practiceamps for $14.30 from Seller 3
+Velma finds 51 items in store, worth $1,518.30
+4 buyers, 3 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Velma selling at $96.00
+Velma selling at $86.40
+Velma is selling cdplayer for $86.40 to Buyer 1
+updated inventory count: 51
+Velma serving Buyer 2
+Buyer 2 wants to buy a bass
+Item is bass in good condition.
+Velma selling at $84.00
+Velma is selling bass for $84.00 to Buyer 2
+updated inventory count: 50
+Item is stringed, Velma is attempting to sell accessories.
+Velma selling Items: bass practiceamps totaling: 184.0
+Item bass cost 84.0
+Item practiceamps cost 100.0
+Velma serving Buyer 3
+Buyer 3 wants to buy a paperscore
+Item is paperscore in excellent condition.
+Velma selling at $78.00
+Velma selling at $70.20
+Buyer 3 wouldn't buy item.
+Velma serving Buyer 4
+Buyer 4 wants to buy a mp3
+Item is mp3 in verygood condition.
+Velma selling at $44.00
+Velma is selling mp3 for $44.00 to Buyer 4
+updated inventory count: 48
+4 items were sold.
+Velma serving Seller 1
+Seller 1 wants to sell a mp3
+Item is mp3 in poor condition.
+Velma offers $8.00
+Velma is buying mp3 for $8.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a saxophone
+Item is saxophone in poor condition.
+Velma offers $3.00
+Velma is buying saxophone for $3.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a cassetteplayer
+Item is cassetteplayer in fair condition.
+Velma offers $18.00
+Velma offers $19.80
+Velma is buying cassetteplayer for $19.80 from Seller 3
 3 items were purchased.
-Daphne is cleaning up the store.
+Velma is cleaning up the store.
 2 items were damaged while cleaning.
-Daphne doesn't damage anything.
-Daphne has left the store.
-Daphne locks up the store and leaves.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
 
 Tracker: Day 5
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 6 , 0 , 2
-Shaggy , 8 , 1 , 3
-Daphne , 5 , 3 , 0
-Freddy , 2 , 0 , 2
-Scooby , 6 , 2 , 0
+Velma , 14 , 6 , 2
+Shaggy , 0 , 0 , 0
+Daphne , 3 , 1 , 1
+Freddy , 5 , 2 , 1
+Scooby , 0 , 0 , 0
 Frank , 0 , 0 , 0

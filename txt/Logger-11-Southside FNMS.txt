@@ -1,75 +1,103 @@
 *** Simulation of Southside FNMS, day 11 ***
 Store opens today, day 11
-Frank is working today.
-Frank has arrived at the store.
-Frank arrives at store.
-Frank checking for arriving items.
-Frank putting a harmonica in inventory.
-Frank putting a harmonica in inventory.
-Frank putting a harmonica in inventory.
-3 items have been added to inventory.
-The cash register has $3,157.48
-Frank checks: $3,157.48 in register.
-Frank is doing inventory.
-Frank counts 3 paperscore
-Frank counts 1 cd
-Frank counts 1 vinyl
-Frank counts 3 cdplayer
-Frank counts 2 recordplayer
-Frank counts 6 mp3
-Frank counts 1 guitar
-Frank counts 1 bass
-Frank counts 2 mandolin
-Frank counts 3 flute
-Frank counts 3 harmonica
-Frank counts 0 hats
-Frank needs to order hats
-Frank counts 0 shirts
-Frank needs to order shirts
-Frank counts 1 bandanas
-Frank counts 4 practiceamps
-Frank counts 0 cables
-Frank needs to order cables
-Frank ordered a cables
-Frank ordered a cables
-Frank ordered a cables
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
+0 items have been added to inventory.
+The cash register has $2,590.64
+Velma checks: $2,590.64 in register.
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 1 cd
+Velma counts 0 vinyl
+Velma needs to order vinyl
+There is an order coming for vinyl
+Velma counts 1 cdplayer
+Velma counts 1 recordplayer
+Velma counts 4 mp3
+Velma counts 4 guitar
+Velma counts 2 bass
+Velma counts 3 mandolin
+Velma counts 2 flute
+Velma counts 2 harmonica
+Velma counts 0 hats
+Velma needs to order hats
+Velma counts 3 shirts
+Velma counts 3 bandanas
+Velma counts 1 practiceamps
+Velma counts 1 cables
+Velma counts 0 strings
+Velma needs to order strings
+Velma ordered a strings
+Velma ordered a strings
+Velma ordered a strings
 3 items were ordered.
-Frank counts 0 strings
-Frank needs to order strings
-There is an order coming for strings
-Frank counts 0 gigbag
-Frank needs to order gigbag
-There is an order coming for gigbag
-Frank counts 1 cassetteplayer
-Frank counts 3 cassette
-Frank counts 3 saxophone
-Frank is tuning items.
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a guitar
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a flute
-Frank successfully tuned a saxophone
-Frank successfully tuned a mp3
-Frank successfully tuned a mp3
-Frank successfully tuned a mp3
-Frank successfully tuned a bass
-Frank successfully tuned a harmonica
-Frank successfully tuned a harmonica
-Frank successfully tuned a harmonica
-There are 38 items in inventory.
-The total value of the inventory is $971.30
-0 items were damaged while tuning.
-Frank finds 38 items in store, worth $971.30
+Velma counts 1 gigbag
+Velma counts 4 cassetteplayer
+Velma counts 5 cassette
+Velma counts 2 saxophone
+Velma is tuning items.
+Velma successfully tuned a cdplayer
+Velma unsuccessfully tuned a recordplayer
+Velma damages something while tuning!
+A recordplayer has new list price: $78.40
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a guitar
+Velma successfully tuned a bass
+Velma successfully tuned a flute
+Velma successfully tuned a harmonica
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma damages something while tuning!
+A cassette has new list price: $68.80
+Velma successfully tuned a saxophone
+Velma unsuccessfully tuned a mp3
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a bass
+Velma unsuccessfully tuned a harmonica
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a saxophone
+Velma damages something while tuning!
+A saxophone has new list price: $44.80
+Velma successfully tuned a mp3
+Velma successfully tuned a guitar
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mandolin
+Velma successfully tuned a mandolin
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a flute
+There are 42 items in inventory.
+The total value of the inventory is $1,138.30
+3 items were damaged while tuning.
+Velma finds 42 items in store, worth $1,138.30
+Velma is cleaning up the store.
+2 items were damaged while cleaning.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
+
+Tracker: Day 11
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 18 , 7 , 6
+Shaggy , 5 , 2 , 2
+Daphne , 3 , 1 , 1
+Freddy , 5 , 2 , 1
+Scooby , 7 , 2 , 1
+Frank , 0 , 0 , 0

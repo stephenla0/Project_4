@@ -1,129 +1,139 @@
 *** Simulation of Northside FNMS, day 10 ***
 Store opens today, day 10
-Freddy is working today.
-Freddy has arrived at the store.
-Freddy arrives at store.
-Freddy checking for arriving items.
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
 0 items have been added to inventory.
-The cash register has $3,115.44
-Freddy checks: $3,115.44 in register.
-Freddy is doing inventory.
-Freddy counts 3 paperscore
-Freddy counts 4 cd
-Freddy counts 0 vinyl
-Freddy needs to order vinyl
-Freddy ordered a vinyl
-Freddy ordered a vinyl
-Freddy ordered a vinyl
+The cash register has $2,629.90
+Scooby checks: $2,629.90 in register.
+Scooby is doing inventory.
+Scooby counts 1 paperscore
+Scooby counts 2 cd
+Scooby counts 3 vinyl
+Scooby counts 3 cdplayer
+Scooby counts 2 recordplayer
+Scooby counts 5 mp3
+Scooby counts 0 guitar
+Scooby needs to order guitar
+Scooby ordered a guitar
+Scooby ordered a guitar
+Scooby ordered a guitar
 3 items were ordered.
-Freddy counts 1 cdplayer
-Freddy counts 1 recordplayer
-Freddy counts 0 mp3
-Freddy needs to order mp3
-There is an order coming for mp3
-Freddy counts 3 guitar
-Freddy counts 2 bass
-Freddy counts 2 mandolin
-Freddy counts 5 flute
-Freddy counts 0 harmonica
-Freddy needs to order harmonica
-There is an order coming for harmonica
-Freddy counts 0 hats
-Freddy needs to order hats
-Freddy counts 2 shirts
-Freddy counts 3 bandanas
-Freddy counts 0 practiceamps
-Freddy needs to order practiceamps
-There is an order coming for practiceamps
-Freddy counts 0 cables
-Freddy needs to order cables
-There is an order coming for cables
-Freddy counts 1 strings
-Freddy counts 3 gigbag
-Freddy counts 3 cassetteplayer
-Freddy counts 2 cassette
-Freddy counts 3 saxophone
-Freddy is tuning items.
-Freddy unsuccessfully tuned a cdplayer
-Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a recordplayer
-Freddy successfully tuned a guitar
-Freddy successfully tuned a flute
-Freddy unsuccessfully tuned a cassetteplayer
-Freddy failed tuning but did not damage the item.
-Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a saxophone
-Freddy successfully tuned a guitar
-Freddy successfully tuned a flute
-Freddy unsuccessfully tuned a cassetteplayer
-Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a saxophone
-Freddy successfully tuned a guitar
-Freddy successfully tuned a flute
-Freddy unsuccessfully tuned a saxophone
-Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a flute
-Freddy failed tuning but did not damage the item.
-Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a bass
-Freddy successfully tuned a bass
-Freddy successfully tuned a mandolin
-Freddy unsuccessfully tuned a mandolin
-Freddy damages something while tuning!
-A mandolin has new list price: $75.20
-Freddy failed tuning but did not damage the item.
-Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a cassetteplayer
-Freddy unsuccessfully tuned a flute
-There are 38 items in inventory.
-The total value of the inventory is $1,034.30
-1 items were damaged while tuning.
-Freddy finds 38 items in store, worth $1,034.30
-4 buyers, 1 sellers today.
-Freddy serving Buyer 1
-Buyer 1 wants to buy a cd
-Item is cd in poor condition.
-Freddy selling at $19.80
-Freddy is selling cd for $19.80 to Buyer 1
-updated inventory count: 38
-Freddy serving Buyer 2
-Buyer 2 wants to buy a cdplayer
-Item is cdplayer in fair condition.
-Freddy selling at $96.00
-Freddy is selling cdplayer for $96.00 to Buyer 2
-updated inventory count: 37
-Freddy serving Buyer 3
-Buyer 3 wants to buy a paperscore
-Item is paperscore in verygood condition.
-Freddy selling at $72.00
-Freddy selling at $64.80
-Freddy is selling paperscore for $64.80 to Buyer 3
-updated inventory count: 36
-Freddy serving Buyer 4
-Buyer 4 wants to buy a flute
+Scooby counts 2 bass
+Scooby counts 3 mandolin
+Scooby counts 2 flute
+Scooby counts 3 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 1 shirts
+Scooby counts 0 bandanas
+Scooby needs to order bandanas
+Scooby counts 2 practiceamps
+Scooby counts 1 cables
+Scooby counts 0 strings
+Scooby needs to order strings
+There is an order coming for strings
+Scooby counts 0 gigbag
+Scooby needs to order gigbag
+Scooby ordered a gigbag
+Scooby ordered a gigbag
+Scooby ordered a gigbag
+3 items were ordered.
+Scooby counts 3 cassetteplayer
+Scooby counts 5 cassette
+Scooby counts 3 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a recordplayer
+Scooby unsuccessfully tuned a mp3
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a bass
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a flute
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a mp3
+Scooby successfully tuned a bass
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a mp3
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a mp3
+Scooby unsuccessfully tuned a flute
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a mp3
+There are 41 items in inventory.
+The total value of the inventory is $994.10
+0 items were damaged while tuning.
+Scooby finds 41 items in store, worth $994.10
+3 buyers, 3 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a paperscore
+Item is paperscore in fair condition.
+Scooby selling at $62.00
+Scooby is selling paperscore for $62.00 to Buyer 1
+updated inventory count: 41
+Scooby serving Buyer 2
+Buyer 2 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Scooby selling at $26.00
+Scooby is selling vinyl for $26.00 to Buyer 2
+updated inventory count: 40
+Scooby serving Buyer 3
+Buyer 3 wants to buy a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Scooby selling at $76.00
+Scooby selling at $68.40
+Buyer 3 wouldn't buy item.
+2 items were sold.
+Scooby serving Seller 1
+Seller 1 wants to sell a flute
 Item is flute in excellent condition.
-Freddy selling at $32.00
-Freddy is selling flute for $32.00 to Buyer 4
-updated inventory count: 35
-4 items were sold.
-Freddy serving Seller 1
-Seller 1 wants to sell a cd
-Item is cd in poor condition.
-Freddy offers $5.00
-Freddy offers $5.50
-Freddy is buying cd for $5.50 from Seller 1
-1 items were purchased.
-Freddy is cleaning up the store.
+Scooby offers $23.00
+Scooby offers $25.30
+Scooby is buying flute for $25.30 from Seller 1
+Scooby serving Seller 2
+Seller 2 wants to sell a practiceamps
+Item is practiceamps in excellent condition.
+Scooby offers $12.00
+Scooby is buying practiceamps for $12.00 from Seller 2
+Scooby serving Seller 3
+Seller 3 wants to sell a strings
+Item is strings in excellent condition.
+Scooby offers $47.00
+Scooby offers $51.70
+Scooby is buying strings for $51.70 from Seller 3
+3 items were purchased.
+Scooby is cleaning up the store.
 2 items were damaged while cleaning.
-Freddy doesn't damage anything.
-Freddy has left the store.
-Freddy locks up the store and leaves.
+Scooby doesn't damage anything.
+Scooby has left the store.
+Scooby locks up the store and leaves.
 
 Tracker: Day 10
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 15 , 2 , 2
-Shaggy , 5 , 3 , 0
-Daphne , 0 , 0 , 0
-Freddy , 4 , 1 , 1
-Scooby , 10 , 3 , 1
-Frank , 17 , 2 , 0
+Velma , 19 , 8 , 2
+Shaggy , 11 , 3 , 2
+Daphne , 7 , 3 , 0
+Freddy , 0 , 0 , 0
+Scooby , 2 , 3 , 0
+Frank , 4 , 2 , 0

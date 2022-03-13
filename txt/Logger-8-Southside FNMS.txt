@@ -1,144 +1,142 @@
 *** Simulation of Southside FNMS, day 8 ***
 Store opens today, day 8
-Scooby is working today.
-Scooby has arrived at the store.
-Scooby arrives at store.
-Scooby checking for arriving items.
+Shaggy is sick today and can not work.
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
 0 items have been added to inventory.
-The cash register has $2,583.64
-Scooby checks: $2,583.64 in register.
-Scooby is doing inventory.
-Scooby counts 2 paperscore
-Scooby counts 1 cd
-Scooby counts 1 vinyl
-Scooby counts 3 cdplayer
-Scooby counts 2 recordplayer
-Scooby counts 6 mp3
-Scooby counts 1 guitar
-Scooby counts 1 bass
-Scooby counts 3 mandolin
-Scooby counts 3 flute
-Scooby counts 1 harmonica
-Scooby counts 1 hats
-Scooby counts 0 shirts
-Scooby needs to order shirts
-Scooby counts 1 bandanas
-Scooby counts 1 practiceamps
-Scooby counts 3 cables
-Scooby counts 2 strings
-Scooby counts 2 gigbag
-Scooby counts 3 cassetteplayer
-Scooby counts 3 cassette
-Scooby counts 3 saxophone
-Scooby is tuning items.
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a recordplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a guitar
-Scooby successfully tuned a bass
-Scooby successfully tuned a mandolin
-Scooby unsuccessfully tuned a flute
-Scooby failed tuning but did not damage the item.
-Scooby unsuccessfully tuned a harmonica
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby unsuccessfully tuned a cassetteplayer
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a recordplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a mandolin
-Scooby successfully tuned a flute
-Scooby successfully tuned a cassetteplayer
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a mandolin
-Scooby successfully tuned a flute
-Scooby successfully tuned a cassetteplayer
-Scooby unsuccessfully tuned a saxophone
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a mp3
-Scooby successfully tuned a mp3
-Scooby unsuccessfully tuned a mp3
-Scooby failed tuning but did not damage the item.
-Scooby damages something while tuning!
-A strings has new list price: $60.80
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-There are 43 items in inventory.
-The total value of the inventory is $1,063.80
+The cash register has $1,988.90
+Velma checks: $1,988.90 in register.
+Velma is doing inventory.
+Velma counts 4 paperscore
+Velma counts 2 cd
+Velma counts 1 vinyl
+Velma counts 3 cdplayer
+Velma counts 2 recordplayer
+Velma counts 4 mp3
+Velma counts 3 guitar
+Velma counts 2 bass
+Velma counts 3 mandolin
+Velma counts 1 flute
+Velma counts 2 harmonica
+Velma counts 1 hats
+Velma counts 3 shirts
+Velma counts 3 bandanas
+Velma counts 1 practiceamps
+Velma counts 1 cables
+Velma counts 2 strings
+Velma counts 2 gigbag
+Velma counts 4 cassetteplayer
+Velma counts 5 cassette
+Velma counts 2 saxophone
+Velma is tuning items.
+Velma unsuccessfully tuned a cdplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a recordplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma successfully tuned a guitar
+Velma successfully tuned a bass
+Velma successfully tuned a flute
+Velma unsuccessfully tuned a harmonica
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cdplayer
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mp3
+Velma successfully tuned a guitar
+Velma successfully tuned a bass
+Velma successfully tuned a harmonica
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cdplayer
+Velma damages something while tuning!
+A cdplayer has new list price: $36.80
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mandolin
+Velma successfully tuned a mandolin
+Velma successfully tuned a recordplayer
+There are 51 items in inventory.
+The total value of the inventory is $1,416.10
 1 items were damaged while tuning.
-Scooby finds 43 items in store, worth $1,063.80
-7 buyers, 1 sellers today.
-Scooby serving Buyer 1
-Buyer 1 wants to buy a harmonica
-Item is harmonica in poor condition.
-Scooby selling at $58.00
-Scooby is selling harmonica for $58.00 to Buyer 1
-updated inventory count: 43
-Scooby serving Buyer 2
-Buyer 2 wants to buy a gigbag
-Item is gigbag in fair condition.
-Scooby selling at $32.00
-Scooby is selling gigbag for $32.00 to Buyer 2
-updated inventory count: 42
-Scooby serving Buyer 3
+Velma finds 51 items in store, worth $1,416.10
+5 buyers, 2 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Item is cdplayer in good condition.
+Velma selling at $36.80
+Velma is selling cdplayer for $36.80 to Buyer 1
+updated inventory count: 51
+Velma serving Buyer 2
+Buyer 2 wants to buy a hats
+Item is hats in good condition.
+Velma selling at $66.00
+Velma is selling hats for $66.00 to Buyer 2
+updated inventory count: 50
+Velma serving Buyer 3
 Buyer 3 wants to buy a hats
-Item is hats in verygood condition.
-Scooby selling at $73.60
-Scooby selling at $66.24
-Scooby is selling hats for $66.24 to Buyer 3
-updated inventory count: 41
-Scooby serving Buyer 4
-Buyer 4 wants to buy a cassetteplayer
-Item is cassetteplayer in excellent condition.
-Scooby selling at $68.00
-Scooby is selling cassetteplayer for $68.00 to Buyer 4
-updated inventory count: 40
-Scooby serving Buyer 5
-Buyer 5 wants to buy a mandolin
-Item is mandolin in good condition.
-Scooby selling at $22.00
-Scooby is selling mandolin for $22.00 to Buyer 5
-updated inventory count: 39
-Item is stringed, Scooby is attempting to sell accessories.
-Scooby selling Items: mandolin gigbag strings practiceamps totaling: 145.4
-Item mandolin cost 22.0
-Item gigbag cost 34.0
-Item strings cost 60.800000000000004
-Item practiceamps cost 28.6
-Scooby serving Buyer 6
-Buyer 6 wants to buy a harmonica
-Buyer 6 leaves, no items in stock.
-Scooby serving Buyer 7
-Buyer 7 wants to buy a shirts
-Buyer 7 leaves, no items in stock.
-8 items were sold.
-Scooby serving Seller 1
-Seller 1 wants to sell a vinyl
-Item is vinyl in good condition.
-Scooby offers $25.00
-Scooby is buying vinyl for $25.00 from Seller 1
+Buyer 3 leaves, no items in stock.
+Velma serving Buyer 4
+Buyer 4 wants to buy a cd
+Item is cd in excellent condition.
+Velma selling at $83.60
+Velma selling at $75.24
+Velma is selling cd for $75.24 to Buyer 4
+updated inventory count: 49
+Velma serving Buyer 5
+Buyer 5 wants to buy a strings
+Item is strings in fair condition.
+Velma selling at $62.00
+Velma is selling strings for $62.00 to Buyer 5
+updated inventory count: 48
+4 items were sold.
+Velma serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in excellent condition.
+Velma offers $30.00
+Velma offers $33.00
+Seller 1 wouldn't sell item.
+Velma serving Seller 2
+Seller 2 wants to sell a mandolin
+Item is mandolin in excellent condition.
+Velma offers $35.00
+Velma offers $38.50
+Velma is buying mandolin for $38.50 from Seller 2
 1 items were purchased.
-Scooby is cleaning up the store.
+Velma is cleaning up the store.
 2 items were damaged while cleaning.
-Scooby doesn't damage anything.
-Scooby has left the store.
-Scooby locks up the store and leaves.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
 
 Tracker: Day 8
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 6 , 0 , 2
-Shaggy , 8 , 1 , 3
-Daphne , 10 , 4 , 0
-Freddy , 2 , 0 , 2
-Scooby , 14 , 3 , 1
+Velma , 18 , 7 , 3
+Shaggy , 0 , 0 , 0
+Daphne , 3 , 1 , 1
+Freddy , 5 , 2 , 1
+Scooby , 3 , 1 , 1
 Frank , 0 , 0 , 0

@@ -1,84 +1,93 @@
 *** Simulation of Northside FNMS, day 11 ***
 Store opens today, day 11
-Scooby is working today.
-Scooby has arrived at the store.
-Scooby arrives at store.
-Scooby checking for arriving items.
-Scooby putting a harmonica in inventory.
-Scooby putting a harmonica in inventory.
-Scooby putting a harmonica in inventory.
-Scooby putting a cables in inventory.
-Scooby putting a cables in inventory.
-Scooby putting a cables in inventory.
-Scooby putting a vinyl in inventory.
-Scooby putting a vinyl in inventory.
-Scooby putting a vinyl in inventory.
-9 items have been added to inventory.
-The cash register has $3,322.54
-Scooby checks: $3,322.54 in register.
-Scooby is doing inventory.
-Scooby counts 2 paperscore
-Scooby counts 4 cd
-Scooby counts 3 vinyl
-Scooby counts 0 cdplayer
-Scooby needs to order cdplayer
-Scooby ordered a cdplayer
-Scooby ordered a cdplayer
-Scooby ordered a cdplayer
+Daphne is working today.
+Daphne has arrived at the store.
+Daphne arrives at store.
+Daphne checking for arriving items.
+Daphne putting a strings in inventory.
+Daphne putting a strings in inventory.
+Daphne putting a strings in inventory.
+Daphne putting a gigbag in inventory.
+Daphne putting a gigbag in inventory.
+Daphne putting a gigbag in inventory.
+6 items have been added to inventory.
+The cash register has $2,628.90
+Daphne checks: $2,628.90 in register.
+Daphne is doing inventory.
+Daphne counts 0 paperscore
+Daphne needs to order paperscore
+Daphne ordered a paperscore
+Daphne ordered a paperscore
+Daphne ordered a paperscore
 3 items were ordered.
-Scooby counts 1 recordplayer
-Scooby counts 0 mp3
-Scooby needs to order mp3
-There is an order coming for mp3
-Scooby counts 3 guitar
-Scooby counts 2 bass
-Scooby counts 2 mandolin
-Scooby counts 4 flute
-Scooby counts 3 harmonica
-Scooby counts 0 hats
-Scooby needs to order hats
-Scooby counts 2 shirts
-Scooby counts 3 bandanas
-Scooby counts 0 practiceamps
-Scooby needs to order practiceamps
-There is an order coming for practiceamps
-Scooby counts 3 cables
-Scooby counts 1 strings
-Scooby counts 3 gigbag
-Scooby counts 3 cassetteplayer
-Scooby counts 2 cassette
-Scooby counts 3 saxophone
-Scooby is tuning items.
-Scooby successfully tuned a recordplayer
-Scooby unsuccessfully tuned a guitar
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a flute
-Scooby successfully tuned a cassetteplayer
-Scooby unsuccessfully tuned a saxophone
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a guitar
-Scooby successfully tuned a flute
-Scooby successfully tuned a cassetteplayer
-Scooby unsuccessfully tuned a saxophone
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a guitar
-Scooby successfully tuned a flute
-Scooby successfully tuned a saxophone
-Scooby unsuccessfully tuned a flute
-Scooby successfully tuned a bass
-Scooby successfully tuned a bass
-Scooby unsuccessfully tuned a mandolin
-Scooby damages something while tuning!
-A mandolin has new list price: $65.60
-Scooby unsuccessfully tuned a mandolin
-Scooby successfully tuned a cassetteplayer
-Scooby unsuccessfully tuned a harmonica
-Scooby unsuccessfully tuned a harmonica
-Scooby successfully tuned a harmonica
-There are 44 items in inventory.
-The total value of the inventory is $1,238.90
-1 items were damaged while tuning.
-Scooby finds 44 items in store, worth $1,238.90
+Daphne counts 2 cd
+Daphne counts 2 vinyl
+Daphne counts 3 cdplayer
+Daphne counts 2 recordplayer
+Daphne counts 5 mp3
+Daphne counts 0 guitar
+Daphne needs to order guitar
+There is an order coming for guitar
+Daphne counts 2 bass
+Daphne counts 3 mandolin
+Daphne counts 3 flute
+Daphne counts 3 harmonica
+Daphne counts 0 hats
+Daphne needs to order hats
+Daphne counts 1 shirts
+Daphne counts 0 bandanas
+Daphne needs to order bandanas
+Daphne counts 3 practiceamps
+Daphne counts 1 cables
+Daphne counts 4 strings
+Daphne counts 3 gigbag
+Daphne counts 3 cassetteplayer
+Daphne counts 5 cassette
+Daphne counts 3 saxophone
+Daphne is tuning items.
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a bass
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a flute
+Daphne successfully tuned a harmonica
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a bass
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a harmonica
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a harmonica
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a flute
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a mp3
+Daphne successfully tuned a flute
+There are 48 items in inventory.
+The total value of the inventory is $1,165.10
+0 items were damaged while tuning.
+Daphne finds 48 items in store, worth $1,165.10
+Daphneis selling a Guitar kit for $251.85
+Daphne is cleaning up the store.
+2 items were damaged while cleaning.
+Daphne doesn't damage anything.
+Daphne has left the store.
+Daphne locks up the store and leaves.
+
+Tracker: Day 11
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 19 , 8 , 2
+Shaggy , 11 , 3 , 2
+Daphne , 7 , 3 , 0
+Freddy , 0 , 0 , 0
+Scooby , 2 , 3 , 0
+Frank , 4 , 2 , 0

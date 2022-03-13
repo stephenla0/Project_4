@@ -1,128 +1,123 @@
 *** Simulation of Southside FNMS, day 10 ***
 Store opens today, day 10
-Frank is working today.
-Frank has arrived at the store.
-Frank arrives at store.
-Frank checking for arriving items.
-Frank putting a practiceamps in inventory.
-Frank putting a practiceamps in inventory.
-Frank putting a practiceamps in inventory.
-3 items have been added to inventory.
-The cash register has $3,079.68
-Frank checks: $3,079.68 in register.
-Frank is doing inventory.
-Frank counts 2 paperscore
-Frank counts 1 cd
-Frank counts 2 vinyl
-Frank counts 3 cdplayer
-Frank counts 2 recordplayer
-Frank counts 6 mp3
-Frank counts 1 guitar
-Frank counts 1 bass
-Frank counts 2 mandolin
-Frank counts 3 flute
-Frank counts 0 harmonica
-Frank needs to order harmonica
-There is an order coming for harmonica
-Frank counts 0 hats
-Frank needs to order hats
-Frank counts 0 shirts
-Frank needs to order shirts
-Frank counts 1 bandanas
-Frank counts 4 practiceamps
-Frank counts 2 cables
-Frank counts 0 strings
-Frank needs to order strings
-Frank ordered a strings
-Frank ordered a strings
-Frank ordered a strings
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
+0 items have been added to inventory.
+The cash register has $2,394.64
+Scooby checks: $2,394.64 in register.
+Scooby is doing inventory.
+Scooby counts 3 paperscore
+Scooby counts 1 cd
+Scooby counts 0 vinyl
+Scooby needs to order vinyl
+Scooby ordered a vinyl
+Scooby ordered a vinyl
+Scooby ordered a vinyl
 3 items were ordered.
-Frank counts 0 gigbag
-Frank needs to order gigbag
-There is an order coming for gigbag
-Frank counts 2 cassetteplayer
-Frank counts 3 cassette
-Frank counts 3 saxophone
-Frank is tuning items.
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a guitar
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a flute
-Frank successfully tuned a saxophone
-Frank successfully tuned a mp3
-Frank successfully tuned a mp3
-Frank successfully tuned a mp3
-Frank successfully tuned a bass
-There are 38 items in inventory.
-The total value of the inventory is $910.30
+Scooby counts 2 cdplayer
+Scooby counts 1 recordplayer
+Scooby counts 4 mp3
+Scooby counts 4 guitar
+Scooby counts 2 bass
+Scooby counts 3 mandolin
+Scooby counts 1 flute
+Scooby counts 2 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 3 shirts
+Scooby counts 3 bandanas
+Scooby counts 1 practiceamps
+Scooby counts 1 cables
+Scooby counts 1 strings
+Scooby counts 2 gigbag
+Scooby counts 4 cassetteplayer
+Scooby counts 5 cassette
+Scooby counts 2 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a mp3
+Scooby unsuccessfully tuned a guitar
+Scooby unsuccessfully tuned a bass
+Scooby successfully tuned a flute
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a cassetteplayer
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cdplayer
+Scooby unsuccessfully tuned a mp3
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a guitar
+Scooby successfully tuned a bass
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a cassetteplayer
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a mp3
+Scooby successfully tuned a guitar
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a cassetteplayer
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a guitar
+Scooby successfully tuned a mp3
+There are 45 items in inventory.
+The total value of the inventory is $1,240.30
 0 items were damaged while tuning.
-Frank finds 38 items in store, worth $910.30
-6 buyers, 1 sellers today.
-Frank serving Buyer 1
-Buyer 1 wants to buy a practiceamps
-Item is practiceamps in verygood condition.
-Frank selling at $72.00
-Frank selling at $64.80
-Buyer 1 wouldn't buy item.
-Frank serving Buyer 2
-Buyer 2 wants to buy a cassetteplayer
-Item is cassetteplayer in good condition.
-Frank selling at $12.80
-Frank is selling cassetteplayer for $12.80 to Buyer 2
-updated inventory count: 38
-Frank serving Buyer 3
-Buyer 3 wants to buy a cables
-Item is cables in excellent condition.
-Frank selling at $30.00
-Frank is selling cables for $30.00 to Buyer 3
-updated inventory count: 37
-Frank serving Buyer 4
-Buyer 4 wants to buy a cables
-Item is cables in good condition.
-Frank selling at $2.00
-Frank is selling cables for $2.00 to Buyer 4
-updated inventory count: 36
-Frank serving Buyer 5
-Buyer 5 wants to buy a hats
-Buyer 5 leaves, no items in stock.
-Frank serving Buyer 6
-Buyer 6 wants to buy a vinyl
-Item is vinyl in good condition.
-Frank selling at $50.00
-Frank is selling vinyl for $50.00 to Buyer 6
-updated inventory count: 35
+Scooby finds 45 items in store, worth $1,240.30
+5 buyers, 1 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a hats
+Buyer 1 leaves, no items in stock.
+Scooby serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Scooby selling at $94.00
+Scooby selling at $84.60
+Scooby is selling cdplayer for $84.60 to Buyer 2
+updated inventory count: 45
+Scooby serving Buyer 3
+Buyer 3 wants to buy a paperscore
+Item is paperscore in poor condition.
+Scooby selling at $22.00
+Scooby is selling paperscore for $22.00 to Buyer 3
+updated inventory count: 44
+Scooby serving Buyer 4
+Buyer 4 wants to buy a gigbag
+Item is gigbag in excellent condition.
+Scooby selling at $56.00
+Scooby selling at $50.40
+Scooby is selling gigbag for $50.40 to Buyer 4
+updated inventory count: 43
+Scooby serving Buyer 5
+Buyer 5 wants to buy a strings
+Item is strings in verygood condition.
+Scooby selling at $46.00
+Scooby is selling strings for $46.00 to Buyer 5
+updated inventory count: 42
 4 items were sold.
-Frank serving Seller 1
-Seller 1 wants to sell a paperscore
-Item is paperscore in fair condition.
-Frank offers $17.00
-Frank is buying paperscore for $17.00 from Seller 1
+Scooby serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in good condition.
+Scooby offers $7.00
+Scooby is buying flute for $7.00 from Seller 1
 1 items were purchased.
-Frank is cleaning up the store.
+Scooby is cleaning up the store.
 2 items were damaged while cleaning.
-Frank doesn't damage anything.
-Frank has left the store.
-Frank locks up the store and leaves.
+Scooby doesn't damage anything.
+Scooby has left the store.
+Scooby locks up the store and leaves.
 
 Tracker: Day 10
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 6 , 0 , 2
-Shaggy , 8 , 1 , 3
-Daphne , 10 , 4 , 0
-Freddy , 2 , 0 , 2
-Scooby , 17 , 5 , 1
-Frank , 4 , 1 , 0
+Velma , 18 , 7 , 3
+Shaggy , 5 , 2 , 2
+Daphne , 3 , 1 , 1
+Freddy , 5 , 2 , 1
+Scooby , 7 , 2 , 1
+Frank , 0 , 0 , 0

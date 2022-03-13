@@ -1,140 +1,138 @@
 *** Simulation of Northside FNMS, day 1 ***
 Store opens today, day 1
-Frank is working today.
-Frank has arrived at the store.
-Frank arrives at store.
-Frank checking for arriving items.
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
 0 items have been added to inventory.
 The cash register has $0.00
-Frank checks: $0.00 in register.
+Shaggy checks: $0.00 in register.
 Cash register is low on funds.
-Frank gets money from the bank.
+Shaggy gets money from the bank.
 The cash register has $1,000.00 after going to the bank.
 The cash register has $1,000.00
-Frank checks: $1,000.00 in register.
-Frank is doing inventory.
-Frank counts 3 paperscore
-Frank counts 3 cd
-Frank counts 3 vinyl
-Frank counts 3 cdplayer
-Frank counts 3 recordplayer
-Frank counts 3 mp3
-Frank counts 3 guitar
-Frank counts 3 bass
-Frank counts 3 mandolin
-Frank counts 3 flute
-Frank counts 3 harmonica
-Frank counts 3 hats
-Frank counts 3 shirts
-Frank counts 3 bandanas
-Frank counts 3 practiceamps
-Frank counts 3 cables
-Frank counts 3 strings
-Frank counts 3 gigbag
-Frank counts 3 cassetteplayer
-Frank counts 3 cassette
-Frank counts 3 saxophone
-Frank is tuning items.
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a guitar
-Frank successfully tuned a bass
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a harmonica
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a guitar
-Frank successfully tuned a bass
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a harmonica
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
-Frank successfully tuned a cdplayer
-Frank successfully tuned a recordplayer
-Frank successfully tuned a mp3
-Frank successfully tuned a guitar
-Frank successfully tuned a bass
-Frank successfully tuned a mandolin
-Frank successfully tuned a flute
-Frank successfully tuned a harmonica
-Frank successfully tuned a cassetteplayer
-Frank successfully tuned a saxophone
+Shaggy checks: $1,000.00 in register.
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 3 cd
+Shaggy counts 3 vinyl
+Shaggy counts 3 cdplayer
+Shaggy counts 3 recordplayer
+Shaggy counts 3 mp3
+Shaggy counts 3 guitar
+Shaggy counts 3 bass
+Shaggy counts 3 mandolin
+Shaggy counts 3 flute
+Shaggy counts 3 harmonica
+Shaggy counts 3 hats
+Shaggy counts 3 shirts
+Shaggy counts 3 bandanas
+Shaggy counts 3 practiceamps
+Shaggy counts 3 cables
+Shaggy counts 3 strings
+Shaggy counts 3 gigbag
+Shaggy counts 3 cassetteplayer
+Shaggy counts 3 cassette
+Shaggy counts 3 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a bass
+Shaggy unsuccessfully tuned a mandolin
+Shaggy unsuccessfully tuned a flute
+Shaggy unsuccessfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a mandolin
+Shaggy unsuccessfully tuned a flute
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a bass
+Shaggy unsuccessfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
 There are 63 items in inventory.
-The total value of the inventory is $1,579.00
+The total value of the inventory is $1,591.00
 0 items were damaged while tuning.
-Frank finds 63 items in store, worth $1,579.00
-7 buyers, 1 sellers today.
-Frank serving Buyer 1
-Buyer 1 wants to buy a cassette
-Item is cassette in fair condition.
-Frank selling at $54.00
-Frank is selling cassette for $54.00 to Buyer 1
+Shaggy finds 63 items in store, worth $1,591.00
+6 buyers, 2 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in fair condition.
+Shaggy selling at $30.00
+Shaggy selling at $27.00
+Buyer 1 wouldn't buy item.
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a hats
+Item is hats in poor condition.
+Shaggy selling at $46.00
+Shaggy is selling hats for $46.00 to Buyer 2
 updated inventory count: 63
-Frank serving Buyer 2
-Buyer 2 wants to buy a mp3
-Item is mp3 in good condition.
-Frank selling at $78.00
-Frank selling at $70.20
-Frank is selling mp3 for $70.20 to Buyer 2
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in fair condition.
+Shaggy selling at $52.00
+Shaggy is selling flute for $52.00 to Buyer 3
 updated inventory count: 62
-Frank serving Buyer 3
-Buyer 3 wants to buy a hats
-Item is hats in good condition.
-Frank selling at $62.00
-Frank is selling hats for $62.00 to Buyer 3
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a flute
+Item is flute in excellent condition.
+Shaggy selling at $16.00
+Shaggy selling at $14.40
+Shaggy is selling flute for $14.40 to Buyer 4
 updated inventory count: 61
-Frank serving Buyer 4
-Buyer 4 wants to buy a bandanas
-Item is bandanas in poor condition.
-Frank selling at $52.00
-Frank selling at $46.80
-Buyer 4 wouldn't buy item.
-Frank serving Buyer 5
-Buyer 5 wants to buy a bass
-Item is bass in verygood condition.
-Frank selling at $22.00
-Frank is selling bass for $22.00 to Buyer 5
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a strings
+Item is strings in excellent condition.
+Shaggy selling at $70.00
+Shaggy selling at $63.00
+Shaggy is selling strings for $63.00 to Buyer 5
 updated inventory count: 60
-Item is stringed, Frank is attempting to sell accessories.
-Frank selling Items: bass practiceamps totaling: 34.0
-Item bass cost 22.0
-Item practiceamps cost 12.0
-Frank serving Buyer 6
-Buyer 6 wants to buy a cassette
-Item is cassette in good condition.
-Frank selling at $52.00
-Frank is selling cassette for $52.00 to Buyer 6
-updated inventory count: 58
-Frank serving Buyer 7
-Buyer 7 wants to buy a vinyl
-Item is vinyl in excellent condition.
-Frank selling at $46.00
-Frank is selling vinyl for $46.00 to Buyer 7
-updated inventory count: 57
-7 items were sold.
-Frank serving Seller 1
-Seller 1 wants to sell a cables
-Item is cables in poor condition.
-Frank offers $6.00
-Frank is buying cables for $6.00 from Seller 1
-1 items were purchased.
-Frank is cleaning up the store.
+Shaggy serving Buyer 6
+Buyer 6 wants to buy a saxophone
+Item is saxophone in good condition.
+Shaggy selling at $8.00
+Shaggy is selling saxophone for $8.00 to Buyer 6
+updated inventory count: 59
+5 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in poor condition.
+Shaggy offers $4.00
+Shaggy offers $4.40
+Shaggy is buying cassetteplayer for $4.40 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in verygood condition.
+Shaggy offers $33.00
+Shaggy offers $36.30
+Shaggy is buying harmonica for $36.30 from Seller 2
+2 items were purchased.
+Shaggy is cleaning up the store.
 2 items were damaged while cleaning.
-Frank doesn't damage anything.
-Frank has left the store.
-Frank locks up the store and leaves.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
 
 Tracker: Day 1
 Clerk, Items Sold, Items Purchased, Items Damaged
 Velma , 0 , 0 , 0
-Shaggy , 0 , 0 , 0
+Shaggy , 5 , 2 , 0
 Daphne , 0 , 0 , 0
 Freddy , 0 , 0 , 0
 Scooby , 0 , 0 , 0
-Frank , 7 , 1 , 0
+Frank , 0 , 0 , 0

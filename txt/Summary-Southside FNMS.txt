@@ -1,0 +1,19 @@
+Summary of: Southside FNMS
+
+Items remaining in inventory:
+paperscore cd cdplayer recordplayer mp3 guitar bass flute harmonica shirts bandanas cassetteplayer cassette saxophone paperscore mp3 guitar bass harmonica shirts bandanas practiceamps gigbag cassetteplayer cassette saxophone mp3 guitar shirts bandanas cables cassetteplayer cassette cassette cassette cassetteplayer mandolin mandolin mandolin guitar mp3 flute 
+
+Total value of remaining items:
+$1,138.30
+
+Items sold:
+paperscore cd cdplayer recordplayer mp3 guitar bass flute harmonica shirts bandanas cassetteplayer cassette saxophone paperscore mp3 guitar bass harmonica shirts bandanas practiceamps gigbag cassetteplayer cassette saxophone mp3 guitar shirts bandanas cables cassetteplayer cassette cassette cassette cassetteplayer mandolin mandolin mandolin guitar mp3 flute 
+
+Total value of sold items:
+$1,904.24
+
+Money left in cash register:
+$2,590.64
+
+Money added to register from bank:
+$1,000.00

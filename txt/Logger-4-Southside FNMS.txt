@@ -4,104 +4,146 @@ Freddy is working today.
 Freddy has arrived at the store.
 Freddy arrives at store.
 Freddy checking for arriving items.
-Freddy putting a strings in inventory.
-Freddy putting a strings in inventory.
-Freddy putting a strings in inventory.
-3 items have been added to inventory.
-The cash register has $1,990.14
-Freddy checks: $1,990.14 in register.
+0 items have been added to inventory.
+The cash register has $1,596.10
+Freddy checks: $1,596.10 in register.
 Freddy is doing inventory.
-Freddy counts 3 paperscore
-Freddy counts 2 cd
+Freddy counts 4 paperscore
+Freddy counts 1 cd
 Freddy counts 2 vinyl
-Freddy counts 3 cdplayer
-Freddy counts 2 recordplayer
-Freddy counts 6 mp3
-Freddy counts 2 guitar
-Freddy counts 1 bass
-Freddy counts 3 mandolin
+Freddy counts 4 cdplayer
+Freddy counts 1 recordplayer
+Freddy counts 3 mp3
+Freddy counts 3 guitar
+Freddy counts 3 bass
+Freddy counts 2 mandolin
 Freddy counts 3 flute
 Freddy counts 2 harmonica
-Freddy counts 2 hats
-Freddy counts 0 shirts
-Freddy needs to order shirts
-Freddy counts 1 bandanas
-Freddy counts 1 practiceamps
+Freddy counts 1 hats
+Freddy counts 3 shirts
+Freddy counts 3 bandanas
+Freddy counts 2 practiceamps
 Freddy counts 1 cables
 Freddy counts 3 strings
-Freddy counts 2 gigbag
+Freddy counts 3 gigbag
 Freddy counts 3 cassetteplayer
-Freddy counts 3 cassette
-Freddy counts 3 saxophone
+Freddy counts 5 cassette
+Freddy counts 2 saxophone
 Freddy is tuning items.
+Freddy successfully tuned a cdplayer
+Freddy unsuccessfully tuned a recordplayer
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a mp3
+Freddy successfully tuned a guitar
+Freddy successfully tuned a bass
+Freddy unsuccessfully tuned a mandolin
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a harmonica
+Freddy successfully tuned a cassetteplayer
+Freddy successfully tuned a saxophone
 Freddy unsuccessfully tuned a cdplayer
 Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a recordplayer
 Freddy successfully tuned a mp3
 Freddy successfully tuned a guitar
 Freddy unsuccessfully tuned a bass
 Freddy failed tuning but did not damage the item.
 Freddy unsuccessfully tuned a mandolin
 Freddy successfully tuned a flute
-Freddy successfully tuned a harmonica
-Freddy successfully tuned a cassetteplayer
-Freddy successfully tuned a saxophone
-Freddy successfully tuned a cdplayer
-Freddy successfully tuned a recordplayer
-Freddy unsuccessfully tuned a mp3
-Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a guitar
-Freddy successfully tuned a mandolin
-Freddy successfully tuned a flute
 Freddy unsuccessfully tuned a harmonica
 Freddy failed tuning but did not damage the item.
 Freddy failed tuning but did not damage the item.
-Freddy damages something while tuning!
-A bandanas has new list price: $51.20
 Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a cassetteplayer
-Freddy damages something while tuning!
-A cassetteplayer has new list price: $12.80
 Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a saxophone
-Freddy unsuccessfully tuned a cdplayer
 Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a mp3
-Freddy successfully tuned a mandolin
-Freddy successfully tuned a flute
+Freddy failed tuning but did not damage the item.
 Freddy unsuccessfully tuned a cassetteplayer
 Freddy failed tuning but did not damage the item.
 Freddy failed tuning but did not damage the item.
-Freddy unsuccessfully tuned a saxophone
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a cdplayer
 Freddy unsuccessfully tuned a mp3
+Freddy unsuccessfully tuned a guitar
+Freddy successfully tuned a bass
+Freddy unsuccessfully tuned a flute
 Freddy failed tuning but did not damage the item.
-Freddy successfully tuned a mp3
-Freddy successfully tuned a mp3
-There are 48 items in inventory.
-The total value of the inventory is $1,280.50
-2 items were damaged while tuning.
-Freddy finds 48 items in store, worth $1,280.50
-2 buyers, 1 sellers today.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy damages something while tuning!
+A cassette has new list price: $44.00
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a cdplayer
+There are 54 items in inventory.
+The total value of the inventory is $1,513.50
+1 items were damaged while tuning.
+Freddy finds 54 items in store, worth $1,513.50
+5 buyers, 3 sellers today.
 Freddy serving Buyer 1
-Buyer 1 wants to buy a cables
-Item is cables in verygood condition.
-Freddy selling at $50.00
-Freddy selling at $45.00
-Freddy is selling cables for $45.00 to Buyer 1
-updated inventory count: 48
+Buyer 1 wants to buy a mandolin
+Item is mandolin in poor condition.
+Freddy selling at $2.00
+Freddy is selling mandolin for $2.00 to Buyer 1
+updated inventory count: 54
+Item is stringed, Freddy is attempting to sell accessories.
+Freddy selling Items: mandolin strings totaling: 14.0
+Item mandolin cost 2.0
+Item strings cost 12.0
 Freddy serving Buyer 2
-Buyer 2 wants to buy a vinyl
-Item is vinyl in fair condition.
-Freddy selling at $50.00
-Freddy is selling vinyl for $50.00 to Buyer 2
-updated inventory count: 47
-2 items were sold.
+Buyer 2 wants to buy a flute
+Item is flute in poor condition.
+Freddy selling at $6.00
+Freddy selling at $5.40
+Freddy is selling flute for $5.40 to Buyer 2
+updated inventory count: 52
+Freddy serving Buyer 3
+Buyer 3 wants to buy a mandolin
+Item is mandolin in good condition.
+Freddy selling at $86.00
+Freddy selling at $77.40
+Freddy is selling mandolin for $77.40 to Buyer 3
+updated inventory count: 51
+Item is stringed, Freddy is attempting to sell accessories.
+Freddy selling Items: mandolin gigbag totaling: 89.4
+Item mandolin cost 77.4
+Item gigbag cost 12.0
+Freddy serving Buyer 4
+Buyer 4 wants to buy a paperscore
+Item is paperscore in excellent condition.
+Freddy selling at $78.00
+Freddy selling at $70.20
+Buyer 4 wouldn't buy item.
+Freddy serving Buyer 5
+Buyer 5 wants to buy a guitar
+Item is guitar in excellent condition.
+Freddy selling at $20.00
+Freddy selling at $18.00
+Buyer 5 wouldn't buy item.
+5 items were sold.
 Freddy serving Seller 1
-Seller 1 wants to sell a shirts
-Item is shirts in verygood condition.
-Freddy offers $34.00
-The store is no longer accepting SHIRTS
-0 items were purchased.
+Seller 1 wants to sell a cd
+Item is cd in excellent condition.
+Freddy offers $38.00
+Freddy offers $41.80
+Freddy is buying cd for $41.80 from Seller 1
+Freddy serving Seller 2
+Seller 2 wants to sell a mp3
+Item is mp3 in verygood condition.
+Freddy offers $20.00
+Freddy offers $22.00
+Freddy is buying mp3 for $22.00 from Seller 2
+Freddy serving Seller 3
+Seller 3 wants to sell a bandanas
+Item is bandanas in poor condition.
+Freddy offers $4.00
+The store is no longer accepting BANDANAS
+2 items were purchased.
 Freddy is cleaning up the store.
 2 items were damaged while cleaning.
 Freddy doesn't damage anything.
@@ -110,9 +152,9 @@ Freddy locks up the store and leaves.
 
 Tracker: Day 4
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 6 , 0 , 2
-Shaggy , 8 , 1 , 3
-Daphne , 0 , 0 , 0
-Freddy , 2 , 0 , 2
-Scooby , 6 , 2 , 0
+Velma , 10 , 3 , 2
+Shaggy , 0 , 0 , 0
+Daphne , 3 , 1 , 1
+Freddy , 5 , 2 , 1
+Scooby , 0 , 0 , 0
 Frank , 0 , 0 , 0

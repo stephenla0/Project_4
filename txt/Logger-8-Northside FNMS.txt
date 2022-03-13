@@ -1,54 +1,66 @@
 *** Simulation of Northside FNMS, day 8 ***
 Store opens today, day 8
+Daphne is sick today and can not work.
 Velma is working today.
 Velma has arrived at the store.
 Velma arrives at store.
 Velma checking for arriving items.
-Velma putting a bass in inventory.
-Velma putting a bass in inventory.
-Velma putting a bass in inventory.
-Velma putting a mandolin in inventory.
-Velma putting a mandolin in inventory.
-Velma putting a mandolin in inventory.
-6 items have been added to inventory.
-The cash register has $2,678.10
-Velma checks: $2,678.10 in register.
+0 items have been added to inventory.
+The cash register has $2,257.88
+Velma checks: $2,257.88 in register.
 Velma is doing inventory.
-Velma counts 3 paperscore
-Velma counts 3 cd
-Velma counts 1 vinyl
-Velma counts 2 cdplayer
-Velma counts 2 recordplayer
-Velma counts 1 mp3
-Velma counts 3 guitar
+Velma counts 2 paperscore
+Velma counts 2 cd
+Velma counts 2 vinyl
+Velma counts 3 cdplayer
+Velma counts 3 recordplayer
+Velma counts 4 mp3
+Velma counts 1 guitar
 Velma counts 3 bass
 Velma counts 3 mandolin
-Velma counts 4 flute
-Velma counts 1 harmonica
+Velma counts 2 flute
+Velma counts 3 harmonica
 Velma counts 0 hats
 Velma needs to order hats
-Velma counts 3 shirts
-Velma counts 3 bandanas
-Velma counts 0 practiceamps
-Velma needs to order practiceamps
-There is an order coming for practiceamps
-Velma counts 1 cables
+Velma counts 1 shirts
+Velma counts 1 bandanas
+Velma counts 2 practiceamps
+Velma counts 2 cables
 Velma counts 0 strings
 Velma needs to order strings
-There is an order coming for strings
+Velma ordered a strings
+Velma ordered a strings
+Velma ordered a strings
+3 items were ordered.
 Velma counts 2 gigbag
-Velma counts 2 cassetteplayer
-Velma counts 2 cassette
-Velma counts 3 saxophone
+Velma counts 4 cassetteplayer
+Velma counts 5 cassette
+Velma counts 2 saxophone
 Velma is tuning items.
 Velma successfully tuned a cdplayer
-Velma unsuccessfully tuned a recordplayer
+Velma successfully tuned a recordplayer
+Velma unsuccessfully tuned a mp3
 Velma failed tuning but did not damage the item.
-Velma successfully tuned a guitar
-Velma successfully tuned a flute
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a bass
+Velma successfully tuned a mandolin
+Velma unsuccessfully tuned a flute
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a harmonica
+Velma unsuccessfully tuned a cassetteplayer
+Velma unsuccessfully tuned a saxophone
+Velma successfully tuned a cdplayer
+Velma successfully tuned a recordplayer
+Velma unsuccessfully tuned a mp3
+Velma unsuccessfully tuned a bass
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
 Velma unsuccessfully tuned a harmonica
 Velma damages something while tuning!
-A harmonica has new list price: $17.60
+A harmonica has new list price: $30.40
+Velma failed tuning but did not damage the item.
 Velma failed tuning but did not damage the item.
 Velma failed tuning but did not damage the item.
 Velma unsuccessfully tuned a cassetteplayer
@@ -56,84 +68,67 @@ Velma failed tuning but did not damage the item.
 Velma failed tuning but did not damage the item.
 Velma unsuccessfully tuned a saxophone
 Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
 Velma unsuccessfully tuned a cdplayer
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a recordplayer
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a guitar
-Velma unsuccessfully tuned a flute
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a cassetteplayer
-Velma successfully tuned a saxophone
-Velma successfully tuned a guitar
-Velma successfully tuned a flute
-Velma successfully tuned a saxophone
-Velma unsuccessfully tuned a flute
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
 Velma unsuccessfully tuned a mp3
 Velma unsuccessfully tuned a bass
-Velma successfully tuned a bass
-Velma successfully tuned a bass
 Velma unsuccessfully tuned a mandolin
-Velma successfully tuned a mandolin
-Velma successfully tuned a mandolin
-There are 42 items in inventory.
-The total value of the inventory is $1,114.00
+Velma successfully tuned a harmonica
+Velma successfully tuned a cassetteplayer
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a mp3
+Velma successfully tuned a flute
+Velma successfully tuned a recordplayer
+There are 47 items in inventory.
+The total value of the inventory is $1,158.60
 1 items were damaged while tuning.
-Velma finds 42 items in store, worth $1,114.00
-5 buyers, 1 sellers today.
+Velma finds 47 items in store, worth $1,158.60
+5 buyers, 2 sellers today.
 Velma serving Buyer 1
-Buyer 1 wants to buy a recordplayer
-Item is recordplayer in verygood condition.
-Velma selling at $6.00
-Velma selling at $5.40
-Velma is selling recordplayer for $5.40 to Buyer 1
-updated inventory count: 42
+Buyer 1 wants to buy a bandanas
+Item is bandanas in fair condition.
+Velma selling at $62.00
+Velma selling at $55.80
+Velma is selling bandanas for $55.80 to Buyer 1
+updated inventory count: 47
 Velma serving Buyer 2
-Buyer 2 wants to buy a shirts
-Item is shirts in poor condition.
-Velma selling at $48.00
-Velma is selling shirts for $48.00 to Buyer 2
-updated inventory count: 41
+Buyer 2 wants to buy a strings
+Buyer 2 leaves, no items in stock.
 Velma serving Buyer 3
-Buyer 3 wants to buy a mandolin
-Item is mandolin in poor condition.
-Velma selling at $88.00
-Velma selling at $79.20
-Velma is selling mandolin for $79.20 to Buyer 3
-updated inventory count: 40
-Item is stringed, Velma is attempting to sell accessories.
-Velma selling Items: mandolin cables totaling: 107.2
-Item mandolin cost 79.2
-Item cables cost 28.0
+Buyer 3 wants to buy a recordplayer
+Item is recordplayer in fair condition.
+Velma selling at $26.00
+Velma is selling recordplayer for $26.00 to Buyer 3
+updated inventory count: 46
 Velma serving Buyer 4
-Buyer 4 wants to buy a mp3
-Item is mp3 in verygood condition.
-Velma selling at $33.00
-Velma selling at $29.70
-Velma is selling mp3 for $29.70 to Buyer 4
-updated inventory count: 38
+Buyer 4 wants to buy a practiceamps
+Item is practiceamps in fair condition.
+Velma selling at $26.00
+Velma is selling practiceamps for $26.00 to Buyer 4
+updated inventory count: 45
 Velma serving Buyer 5
-Buyer 5 wants to buy a harmonica
-Item is harmonica in excellent condition.
-Velma selling at $17.60
-Velma selling at $15.84
-Velma is selling harmonica for $15.84 to Buyer 5
-updated inventory count: 37
+Buyer 5 wants to buy a bass
+Item is bass in fair condition.
+Velma selling at $52.00
+Velma selling at $46.80
+Velma is selling bass for $46.80 to Buyer 5
+updated inventory count: 44
+Item is stringed, Velma is attempting to sell accessories.
+Velma selling Items: bass gigbag cables totaling: 176.8
+Item bass cost 46.800000000000004
+Item gigbag cost 68.0
+Item cables cost 62.0
 6 items were sold.
 Velma serving Seller 1
-Seller 1 wants to sell a cd
-Item is cd in poor condition.
+Seller 1 wants to sell a saxophone
+Item is saxophone in fair condition.
 Velma offers $9.00
-Velma offers $9.90
-Velma is buying cd for $9.90 from Seller 1
-1 items were purchased.
+Velma is buying saxophone for $9.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Velma offers $13.00
+Velma is buying vinyl for $13.00 from Seller 2
+2 items were purchased.
 Velma is cleaning up the store.
 2 items were damaged while cleaning.
 Velma doesn't damage anything.
@@ -142,9 +137,9 @@ Velma locks up the store and leaves.
 
 Tracker: Day 8
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 15 , 2 , 2
-Shaggy , 0 , 0 , 0
-Daphne , 0 , 0 , 0
+Velma , 19 , 8 , 2
+Shaggy , 11 , 3 , 2
+Daphne , 7 , 3 , 0
 Freddy , 0 , 0 , 0
-Scooby , 10 , 3 , 1
-Frank , 17 , 2 , 0
+Scooby , 0 , 0 , 0
+Frank , 0 , 0 , 0

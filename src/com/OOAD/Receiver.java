@@ -2,11 +2,13 @@ package com.OOAD;
 
 import java.util.Calendar;
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Receiver implements ConsoleLogger{
     Simulation sim;
     Scanner scan;
     Store currentStore;
+    GuitarKitItem fullKit;
 
     Receiver(Simulation sim, Scanner scan){
         this.sim = sim;
@@ -169,6 +171,7 @@ public class Receiver implements ConsoleLogger{
     }
 
     public void buyGuitarKit(){
+        fullKit = new GuitarKitItem();
         if(currentStore==null){
             System.out.println("No store selected");
             return;
@@ -187,17 +190,102 @@ public class Receiver implements ConsoleLogger{
             return;
         }
         kit.gatherKitParts();
+        kit.createCart();
 
+
+        System.out.print("");
         System.out.println("Choose your Bridge:");
         int select = 1;
-        for(Bridge item: kit.bridge){
-            System.out.println(select + ": " + item.name);
+        for(GuitarKitPart item: kit.bridge){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
         select = getSelection(1, select);
-        System.out.println(kit.bridge[select-1].name + " has been added to your kit");
+        GuitarKitPart selectedPart = kit.bridge[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
 
+
+        System.out.print("");
+        System.out.println("Choose your Knob:");
+        select = 1;
+        for(GuitarKitPart item: kit.knob){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
+            select++;
+        }
+        select = getSelection(1, select);
+        selectedPart = kit.knob[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
+
+
+        System.out.print("");
+        System.out.println("Choose your Cover:");
+        select = 1;
+        for(GuitarKitPart item: kit.cover){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
+            select++;
+        }
+        select = getSelection(1, select);
+        selectedPart = kit.cover[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
+
+
+        System.out.print("");
+        System.out.println("Choose your Neck:");
+        select = 1;
+        for(GuitarKitPart item: kit.neck){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
+            select++;
+        }
+        select = getSelection(1, select);
+        selectedPart = kit.neck[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
+
+
+        System.out.print("");
+        System.out.println("Choose your Pickguard:");
+        select = 1;
+        for(GuitarKitPart item: kit.pickguard){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
+            select++;
+        }
+        select = getSelection(1, select);
+        selectedPart = kit.pickguard[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
+
+
+        System.out.print("");
+        System.out.println("Choose your Pickup:");
+        select = 1;
+        for(GuitarKitPart item: kit.pickup){
+            System.out.println(select + ": " + item.name +" for $"+item.price);
+            select++;
+        }
+        select = getSelection(1, select);
+        selectedPart = kit.pickup[select-1];
+        System.out.println(selectedPart.name + " has been added to your kit");
+        kit.addToCart(selectedPart);
+        System.out.println("Total of kit: $"+kit.getCartPrice());
+        fullKit.setCart(kit.cart);
+        fullKit.setPrice(kit.getCartPrice());
+
+        sim.corporation.logger.reopenFile(currentStore.today, currentStore);
+        out(currentStore.activeClerk.name + "is selling a Guitar kit for $" + fullKit.salePrice, sim.corporation.logger);
+        fullKit.daySold = currentStore.today;
+        currentStore.inventory.soldItems.add(fullKit);
+        currentStore.cashRegister += fullKit.listPrice;
+        sim.corporation.logger.close();
     }
+
 
     public void end(receiveUserInteraction interact){
         interact.terminate=true;
