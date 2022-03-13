@@ -1,0 +1,161 @@
+*** Simulation of Southside FNMS, day 2 ***
+Store opens today, day 2
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $1,148.70
+Shaggy checks: $1,148.70 in register.
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 2 cd
+Shaggy counts 3 vinyl
+Shaggy counts 3 cdplayer
+Shaggy counts 3 recordplayer
+Shaggy counts 5 mp3
+Shaggy counts 3 guitar
+Shaggy counts 2 bass
+Shaggy counts 3 mandolin
+Shaggy counts 3 flute
+Shaggy counts 3 harmonica
+Shaggy counts 3 hats
+Shaggy counts 3 shirts
+Shaggy counts 2 bandanas
+Shaggy counts 3 practiceamps
+Shaggy counts 2 cables
+Shaggy counts 2 strings
+Shaggy counts 2 gigbag
+Shaggy counts 3 cassetteplayer
+Shaggy counts 3 cassette
+Shaggy counts 3 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy unsuccessfully tuned a harmonica
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A hats has new list price: $73.60
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A bandanas has new list price: $62.00
+A bandanas was broken!
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy unsuccessfully tuned a guitar
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy unsuccessfully tuned a saxophone
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A vinyl has new list price: $73.60
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy unsuccessfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a mp3
+Shaggy unsuccessfully tuned a mp3
+There are 58 items in inventory.
+The total value of the inventory is $1,602.50
+3 items were damaged while tuning.
+Shaggy finds 58 items in store, worth $1,602.50
+8 buyers, 1 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a cables
+Item is cables in fair condition.
+Shaggy selling at $52.00
+Shaggy selling at $46.80
+Shaggy is selling cables for $46.80 to Buyer 1
+updated inventory count: 58
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a shirts
+Item is shirts in excellent condition.
+Shaggy selling at $90.00
+Shaggy is selling shirts for $90.00 to Buyer 2
+updated inventory count: 57
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a strings
+Item is strings in fair condition.
+Shaggy selling at $84.00
+Shaggy is selling strings for $84.00 to Buyer 3
+updated inventory count: 56
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a bass
+Item is bass in verygood condition.
+Shaggy selling at $44.00
+Shaggy is selling bass for $44.00 to Buyer 4
+updated inventory count: 55
+Item is stringed, Shaggy is attempting to sell accessories.
+Shaggy selling Items: bass totaling: 44.0
+Item bass cost 44.0
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a cassette
+Item is cassette in good condition.
+Shaggy selling at $98.00
+Shaggy selling at $88.20
+Buyer 5 wouldn't buy item.
+Shaggy serving Buyer 6
+Buyer 6 wants to buy a harmonica
+Item is harmonica in good condition.
+Shaggy selling at $72.00
+Shaggy is selling harmonica for $72.00 to Buyer 6
+updated inventory count: 54
+Shaggy serving Buyer 7
+Buyer 7 wants to buy a guitar
+Item is guitar in fair condition.
+Shaggy selling at $98.00
+Shaggy is selling guitar for $98.00 to Buyer 7
+updated inventory count: 53
+Item is stringed, Shaggy is attempting to sell accessories.
+Shaggy selling Items: guitar strings totaling: 180.0
+Item guitar cost 98.0
+Item strings cost 82.0
+Shaggy serving Buyer 8
+Buyer 8 wants to buy a shirts
+Item is shirts in good condition.
+Shaggy selling at $16.00
+Shaggy selling at $14.40
+Shaggy is selling shirts for $14.40 to Buyer 8
+updated inventory count: 51
+8 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a mp3
+Item is mp3 in fair condition.
+Shaggy offers $10.00
+Shaggy is buying mp3 for $10.00 from Seller 1
+1 items were purchased.
+Shaggy is cleaning up the store.
+2 items were damaged while cleaning.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
+
+Tracker: Day 2
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 0 , 0 , 0
+Shaggy , 8 , 1 , 3
+Daphne , 0 , 0 , 0
+Freddy , 0 , 0 , 0
+Scooby , 6 , 2 , 0
+Frank , 0 , 0 , 0

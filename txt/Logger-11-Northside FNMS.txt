@@ -1,0 +1,84 @@
+*** Simulation of Northside FNMS, day 11 ***
+Store opens today, day 11
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
+Scooby putting a harmonica in inventory.
+Scooby putting a harmonica in inventory.
+Scooby putting a harmonica in inventory.
+Scooby putting a cables in inventory.
+Scooby putting a cables in inventory.
+Scooby putting a cables in inventory.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+9 items have been added to inventory.
+The cash register has $3,322.54
+Scooby checks: $3,322.54 in register.
+Scooby is doing inventory.
+Scooby counts 2 paperscore
+Scooby counts 4 cd
+Scooby counts 3 vinyl
+Scooby counts 0 cdplayer
+Scooby needs to order cdplayer
+Scooby ordered a cdplayer
+Scooby ordered a cdplayer
+Scooby ordered a cdplayer
+3 items were ordered.
+Scooby counts 1 recordplayer
+Scooby counts 0 mp3
+Scooby needs to order mp3
+There is an order coming for mp3
+Scooby counts 3 guitar
+Scooby counts 2 bass
+Scooby counts 2 mandolin
+Scooby counts 4 flute
+Scooby counts 3 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 2 shirts
+Scooby counts 3 bandanas
+Scooby counts 0 practiceamps
+Scooby needs to order practiceamps
+There is an order coming for practiceamps
+Scooby counts 3 cables
+Scooby counts 1 strings
+Scooby counts 3 gigbag
+Scooby counts 3 cassetteplayer
+Scooby counts 2 cassette
+Scooby counts 3 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a recordplayer
+Scooby unsuccessfully tuned a guitar
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a flute
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a saxophone
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a guitar
+Scooby successfully tuned a flute
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a saxophone
+Scooby failed tuning but did not damage the item.
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a guitar
+Scooby successfully tuned a flute
+Scooby successfully tuned a saxophone
+Scooby unsuccessfully tuned a flute
+Scooby successfully tuned a bass
+Scooby successfully tuned a bass
+Scooby unsuccessfully tuned a mandolin
+Scooby damages something while tuning!
+A mandolin has new list price: $65.60
+Scooby unsuccessfully tuned a mandolin
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a harmonica
+Scooby unsuccessfully tuned a harmonica
+Scooby successfully tuned a harmonica
+There are 44 items in inventory.
+The total value of the inventory is $1,238.90
+1 items were damaged while tuning.
+Scooby finds 44 items in store, worth $1,238.90

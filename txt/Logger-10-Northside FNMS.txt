@@ -1,0 +1,129 @@
+*** Simulation of Northside FNMS, day 10 ***
+Store opens today, day 10
+Freddy is working today.
+Freddy has arrived at the store.
+Freddy arrives at store.
+Freddy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,115.44
+Freddy checks: $3,115.44 in register.
+Freddy is doing inventory.
+Freddy counts 3 paperscore
+Freddy counts 4 cd
+Freddy counts 0 vinyl
+Freddy needs to order vinyl
+Freddy ordered a vinyl
+Freddy ordered a vinyl
+Freddy ordered a vinyl
+3 items were ordered.
+Freddy counts 1 cdplayer
+Freddy counts 1 recordplayer
+Freddy counts 0 mp3
+Freddy needs to order mp3
+There is an order coming for mp3
+Freddy counts 3 guitar
+Freddy counts 2 bass
+Freddy counts 2 mandolin
+Freddy counts 5 flute
+Freddy counts 0 harmonica
+Freddy needs to order harmonica
+There is an order coming for harmonica
+Freddy counts 0 hats
+Freddy needs to order hats
+Freddy counts 2 shirts
+Freddy counts 3 bandanas
+Freddy counts 0 practiceamps
+Freddy needs to order practiceamps
+There is an order coming for practiceamps
+Freddy counts 0 cables
+Freddy needs to order cables
+There is an order coming for cables
+Freddy counts 1 strings
+Freddy counts 3 gigbag
+Freddy counts 3 cassetteplayer
+Freddy counts 2 cassette
+Freddy counts 3 saxophone
+Freddy is tuning items.
+Freddy unsuccessfully tuned a cdplayer
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a recordplayer
+Freddy successfully tuned a guitar
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a guitar
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a guitar
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a saxophone
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a flute
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a bass
+Freddy successfully tuned a bass
+Freddy successfully tuned a mandolin
+Freddy unsuccessfully tuned a mandolin
+Freddy damages something while tuning!
+A mandolin has new list price: $75.20
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy unsuccessfully tuned a flute
+There are 38 items in inventory.
+The total value of the inventory is $1,034.30
+1 items were damaged while tuning.
+Freddy finds 38 items in store, worth $1,034.30
+4 buyers, 1 sellers today.
+Freddy serving Buyer 1
+Buyer 1 wants to buy a cd
+Item is cd in poor condition.
+Freddy selling at $19.80
+Freddy is selling cd for $19.80 to Buyer 1
+updated inventory count: 38
+Freddy serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Freddy selling at $96.00
+Freddy is selling cdplayer for $96.00 to Buyer 2
+updated inventory count: 37
+Freddy serving Buyer 3
+Buyer 3 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Freddy selling at $72.00
+Freddy selling at $64.80
+Freddy is selling paperscore for $64.80 to Buyer 3
+updated inventory count: 36
+Freddy serving Buyer 4
+Buyer 4 wants to buy a flute
+Item is flute in excellent condition.
+Freddy selling at $32.00
+Freddy is selling flute for $32.00 to Buyer 4
+updated inventory count: 35
+4 items were sold.
+Freddy serving Seller 1
+Seller 1 wants to sell a cd
+Item is cd in poor condition.
+Freddy offers $5.00
+Freddy offers $5.50
+Freddy is buying cd for $5.50 from Seller 1
+1 items were purchased.
+Freddy is cleaning up the store.
+2 items were damaged while cleaning.
+Freddy doesn't damage anything.
+Freddy has left the store.
+Freddy locks up the store and leaves.
+
+Tracker: Day 10
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 2 , 2
+Shaggy , 5 , 3 , 0
+Daphne , 0 , 0 , 0
+Freddy , 4 , 1 , 1
+Scooby , 10 , 3 , 1
+Frank , 17 , 2 , 0

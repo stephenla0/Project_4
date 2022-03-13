@@ -1,0 +1,115 @@
+*** Simulation of Northside FNMS, day 6 ***
+Store opens today, day 6
+Frank is working today.
+Frank has arrived at the store.
+Frank arrives at store.
+Frank checking for arriving items.
+0 items have been added to inventory.
+The cash register has $2,664.60
+Frank checks: $2,664.60 in register.
+Frank is doing inventory.
+Frank counts 3 paperscore
+Frank counts 3 cd
+Frank counts 1 vinyl
+Frank counts 2 cdplayer
+Frank counts 2 recordplayer
+Frank counts 1 mp3
+Frank counts 3 guitar
+Frank counts 0 bass
+Frank needs to order bass
+There is an order coming for bass
+Frank counts 0 mandolin
+Frank needs to order mandolin
+Frank ordered a mandolin
+Frank ordered a mandolin
+Frank ordered a mandolin
+3 items were ordered.
+Frank counts 4 flute
+Frank counts 1 harmonica
+Frank counts 0 hats
+Frank needs to order hats
+Frank counts 3 shirts
+Frank counts 3 bandanas
+Frank counts 0 practiceamps
+Frank needs to order practiceamps
+There is an order coming for practiceamps
+Frank counts 2 cables
+Frank counts 0 strings
+Frank needs to order strings
+Frank ordered a strings
+Frank ordered a strings
+Frank ordered a strings
+3 items were ordered.
+Frank counts 2 gigbag
+Frank counts 2 cassetteplayer
+Frank counts 2 cassette
+Frank counts 3 saxophone
+Frank is tuning items.
+Frank successfully tuned a cdplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a guitar
+Frank successfully tuned a flute
+Frank successfully tuned a harmonica
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a saxophone
+Frank successfully tuned a cdplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a guitar
+Frank successfully tuned a flute
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a saxophone
+Frank successfully tuned a guitar
+Frank successfully tuned a flute
+Frank successfully tuned a saxophone
+Frank successfully tuned a flute
+There are 37 items in inventory.
+The total value of the inventory is $876.50
+0 items were damaged while tuning.
+Frank finds 37 items in store, worth $876.50
+4 buyers, 2 sellers today.
+Frank serving Buyer 1
+Buyer 1 wants to buy a mp3
+Item is mp3 in verygood condition.
+Frank selling at $18.00
+Frank is selling mp3 for $18.00 to Buyer 1
+updated inventory count: 37
+Frank serving Buyer 2
+Buyer 2 wants to buy a cables
+Item is cables in poor condition.
+Frank selling at $12.00
+Frank is selling cables for $12.00 to Buyer 2
+updated inventory count: 36
+Frank serving Buyer 3
+Buyer 3 wants to buy a mp3
+Buyer 3 leaves, no items in stock.
+Frank serving Buyer 4
+Buyer 4 wants to buy a strings
+Buyer 4 leaves, no items in stock.
+2 items were sold.
+Frank serving Seller 1
+Seller 1 wants to sell a shirts
+Item is shirts in verygood condition.
+Frank offers $25.00
+The store is no longer accepting SHIRTS
+Frank serving Seller 2
+Seller 2 wants to sell a mp3
+Item is mp3 in verygood condition.
+Frank offers $15.00
+Frank offers $16.50
+Frank is buying mp3 for $16.50 from Seller 2
+1 items were purchased.
+Frank is cleaning up the store.
+2 items were damaged while cleaning.
+Frank doesn't damage anything.
+Frank has left the store.
+Frank locks up the store and leaves.
+
+Tracker: Day 6
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 9 , 1 , 1
+Shaggy , 0 , 0 , 0
+Daphne , 0 , 0 , 0
+Freddy , 0 , 0 , 0
+Scooby , 10 , 3 , 1
+Frank , 17 , 2 , 0
