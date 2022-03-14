@@ -21,7 +21,7 @@ public class Simulation implements ConsoleLogger {
         }
     }
 
-    Simulation() {
+    public Simulation() {
         weekDay = Weekday.MONDAY;   //set the starting day
         dayCounter = 1;
         corporation = new Corporation();
