@@ -37,3 +37,7 @@ Singleton: Tracker.java, Logger.java
 link to UML made in program that isnt cut off from images:
 https://app.diagrams.net/#G16pr9omXINI4UoOkoQLWpRQijJlVON6As
 </p>
+
+
+Changes Made to UML: 
+We added in defining functions that were left blank in our original UML diagram. Additionally, we implemented more classes in the Command class than were originally thought to be needed. This was upadated in the link above. No other changes were significant in our new UML. 
