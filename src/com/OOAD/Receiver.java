@@ -32,7 +32,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(selection + ": " + store.storeName);
             selection++;
         }
-        selection = getSelection(1, selection);
+        selection = getSelection(1, selection-1);
         currentStore = sim.corporation.stores.get(selection-1);
         System.out.println(currentStore.storeName + " selected");
     }
@@ -64,7 +64,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(selection + ": " + type.toString().toLowerCase());
             selection++;
         }
-        selection = getSelection(1, selection);
+        selection = getSelection(1, selection-1);
         ItemType typeSelect = currentStore.inventory.itemList.get(selection-1);
         Item item = currentStore.inventory.makeNewItemByType(typeSelect);
 
@@ -123,7 +123,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(selection + ": " + type.toString().toLowerCase());
             selection++;
         }
-        selection = getSelection(1, selection);
+        selection = getSelection(1, selection-1);
         ItemType typeSelect = currentStore.inventory.itemList.get(selection-1);
         int countInStock = currentStore.inventory.countByType(currentStore.inventory.items, typeSelect);
         // if no items - bye
@@ -204,7 +204,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         GuitarKitPart selectedPart = kit.bridge[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);
@@ -218,7 +218,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         selectedPart = kit.knob[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);
@@ -232,7 +232,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         selectedPart = kit.cover[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);
@@ -246,7 +246,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         selectedPart = kit.neck[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);
@@ -260,7 +260,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         selectedPart = kit.pickguard[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);
@@ -274,7 +274,7 @@ public class Receiver implements ConsoleLogger{
             System.out.println(select + ": " + item.name +" for $"+item.price);
             select++;
         }
-        select = getSelection(1, select);
+        select = getSelection(1, select-1);
         selectedPart = kit.pickup[select-1];
         System.out.println(selectedPart.name + " has been added to your kit");
         kit.addToCart(selectedPart);

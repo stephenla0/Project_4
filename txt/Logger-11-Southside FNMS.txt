@@ -1,103 +1,142 @@
 *** Simulation of Southside FNMS, day 11 ***
 Store opens today, day 11
-Velma is working today.
-Velma has arrived at the store.
-Velma arrives at store.
-Velma checking for arriving items.
+Shaggy is sick today and can not work.
+Daphne is working today.
+Daphne has arrived at the store.
+Daphne arrives at store.
+Daphne checking for arriving items.
 0 items have been added to inventory.
-The cash register has $2,590.64
-Velma checks: $2,590.64 in register.
-Velma is doing inventory.
-Velma counts 2 paperscore
-Velma counts 1 cd
-Velma counts 0 vinyl
-Velma needs to order vinyl
+The cash register has $2,374.97
+Daphne checks: $2,374.97 in register.
+Daphne is doing inventory.
+Daphne counts 2 paperscore
+Daphne counts 2 cd
+Daphne counts 0 vinyl
+Daphne needs to order vinyl
 There is an order coming for vinyl
-Velma counts 1 cdplayer
-Velma counts 1 recordplayer
-Velma counts 4 mp3
-Velma counts 4 guitar
-Velma counts 2 bass
-Velma counts 3 mandolin
-Velma counts 2 flute
-Velma counts 2 harmonica
-Velma counts 0 hats
-Velma needs to order hats
-Velma counts 3 shirts
-Velma counts 3 bandanas
-Velma counts 1 practiceamps
-Velma counts 1 cables
-Velma counts 0 strings
-Velma needs to order strings
-Velma ordered a strings
-Velma ordered a strings
-Velma ordered a strings
+Daphne counts 5 cdplayer
+Daphne counts 2 recordplayer
+Daphne counts 4 mp3
+Daphne counts 2 guitar
+Daphne counts 0 bass
+Daphne needs to order bass
+Daphne ordered a bass
+Daphne ordered a bass
+Daphne ordered a bass
 3 items were ordered.
-Velma counts 1 gigbag
-Velma counts 4 cassetteplayer
-Velma counts 5 cassette
-Velma counts 2 saxophone
-Velma is tuning items.
-Velma successfully tuned a cdplayer
-Velma unsuccessfully tuned a recordplayer
-Velma damages something while tuning!
-A recordplayer has new list price: $78.40
-Velma unsuccessfully tuned a mp3
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a guitar
-Velma successfully tuned a bass
-Velma successfully tuned a flute
-Velma successfully tuned a harmonica
-Velma unsuccessfully tuned a cassetteplayer
-Velma failed tuning but did not damage the item.
-Velma damages something while tuning!
-A cassette has new list price: $68.80
-Velma successfully tuned a saxophone
-Velma unsuccessfully tuned a mp3
-Velma unsuccessfully tuned a guitar
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a bass
-Velma unsuccessfully tuned a harmonica
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a cassetteplayer
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a saxophone
-Velma damages something while tuning!
-A saxophone has new list price: $44.80
-Velma successfully tuned a mp3
-Velma successfully tuned a guitar
-Velma successfully tuned a cassetteplayer
-Velma unsuccessfully tuned a cassetteplayer
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a mandolin
-Velma successfully tuned a mandolin
-Velma unsuccessfully tuned a mandolin
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a guitar
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a mp3
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a flute
-There are 42 items in inventory.
-The total value of the inventory is $1,138.30
-3 items were damaged while tuning.
-Velma finds 42 items in store, worth $1,138.30
-Velma is cleaning up the store.
+Daphne counts 3 mandolin
+Daphne counts 2 flute
+Daphne counts 0 harmonica
+Daphne needs to order harmonica
+There is an order coming for harmonica
+Daphne counts 1 hats
+Daphne counts 1 shirts
+Daphne counts 0 bandanas
+Daphne needs to order bandanas
+Daphne counts 5 practiceamps
+Daphne counts 3 cables
+Daphne counts 1 strings
+Daphne counts 2 gigbag
+Daphne counts 3 cassetteplayer
+Daphne counts 3 cassette
+Daphne counts 4 saxophone
+Daphne is tuning items.
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a guitar
+Daphne successfully tuned a flute
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a guitar
+Daphne successfully tuned a flute
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cdplayer
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a mp3
+Daphne successfully tuned a cdplayer
+There are 45 items in inventory.
+The total value of the inventory is $919.40
+0 items were damaged while tuning.
+Daphne finds 45 items in store, worth $919.40
+7 buyers, 3 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Daphne selling at $17.60
+Daphne is selling cdplayer for $17.60 to Buyer 1
+updated inventory count: 45
+Daphne serving Buyer 2
+Buyer 2 wants to buy a harmonica
+Buyer 2 leaves, no items in stock.
+Daphne serving Buyer 3
+Buyer 3 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Daphne selling at $12.00
+Daphne is selling cdplayer for $12.00 to Buyer 3
+updated inventory count: 44
+Daphne serving Buyer 4
+Buyer 4 wants to buy a strings
+Item is strings in fair condition.
+Daphne selling at $16.00
+Daphne is selling strings for $16.00 to Buyer 4
+updated inventory count: 43
+Daphne serving Buyer 5
+Buyer 5 wants to buy a cd
+Item is cd in good condition.
+Daphne selling at $52.00
+Daphne is selling cd for $52.00 to Buyer 5
+updated inventory count: 42
+Daphne serving Buyer 6
+Buyer 6 wants to buy a paperscore
+Item is paperscore in fair condition.
+Daphne selling at $100.00
+Daphne selling at $90.00
+Buyer 6 wouldn't buy item.
+Daphne serving Buyer 7
+Buyer 7 wants to buy a harmonica
+Buyer 7 leaves, no items in stock.
+4 items were sold.
+Daphne serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in fair condition.
+Daphne offers $19.00
+Daphne is buying cassetteplayer for $19.00 from Seller 1
+Daphne serving Seller 2
+Seller 2 wants to sell a saxophone
+Item is saxophone in excellent condition.
+Daphne offers $23.00
+Daphne offers $25.30
+Daphne is buying saxophone for $25.30 from Seller 2
+Daphne serving Seller 3
+Seller 3 wants to sell a harmonica
+Item is harmonica in verygood condition.
+Daphne offers $9.00
+Daphne offers $9.90
+Daphne is buying harmonica for $9.90 from Seller 3
+3 items were purchased.
+Daphne is cleaning up the store.
 2 items were damaged while cleaning.
-Velma doesn't damage anything.
-Velma has left the store.
-Velma locks up the store and leaves.
+Daphne doesn't damage anything.
+Daphne has left the store.
+Daphne locks up the store and leaves.
 
 Tracker: Day 11
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 18 , 7 , 6
-Shaggy , 5 , 2 , 2
-Daphne , 3 , 1 , 1
-Freddy , 5 , 2 , 1
-Scooby , 7 , 2 , 1
-Frank , 0 , 0 , 0
+Velma , 12 , 2 , 2
+Shaggy , 21 , 13 , 6
+Daphne , 4 , 3 , 0
+Freddy , 1 , 4 , 0
+Scooby , 10 , 3 , 2
+Frank , 4 , 2 , 0

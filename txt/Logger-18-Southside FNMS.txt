@@ -1,0 +1,141 @@
+*** Simulation of Southside FNMS, day 18 ***
+Store opens today, day 18
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
+Velma putting a flute in inventory.
+Velma putting a flute in inventory.
+Velma putting a flute in inventory.
+3 items have been added to inventory.
+The cash register has $3,094.49
+Velma checks: $3,094.49 in register.
+Velma is doing inventory.
+Velma counts 3 paperscore
+Velma counts 1 cd
+Velma counts 2 vinyl
+Velma counts 3 cdplayer
+Velma counts 1 recordplayer
+Velma counts 4 mp3
+Velma counts 2 guitar
+Velma counts 0 bass
+Velma needs to order bass
+There is an order coming for bass
+Velma counts 3 mandolin
+Velma counts 3 flute
+Velma counts 4 harmonica
+Velma counts 0 hats
+Velma needs to order hats
+Velma counts 1 shirts
+Velma counts 0 bandanas
+Velma needs to order bandanas
+Velma counts 3 practiceamps
+Velma counts 1 cables
+Velma counts 0 strings
+Velma needs to order strings
+There is an order coming for strings
+Velma counts 2 gigbag
+Velma counts 3 cassetteplayer
+Velma counts 2 cassette
+Velma counts 4 saxophone
+Velma is tuning items.
+Velma unsuccessfully tuned a cdplayer
+Velma unsuccessfully tuned a recordplayer
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a guitar
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cdplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma successfully tuned a guitar
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mandolin
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a cassetteplayer
+Velma successfully tuned a cassetteplayer
+Velma successfully tuned a mp3
+Velma unsuccessfully tuned a harmonica
+Velma unsuccessfully tuned a harmonica
+Velma successfully tuned a harmonica
+Velma unsuccessfully tuned a harmonica
+Velma unsuccessfully tuned a cdplayer
+Velma successfully tuned a flute
+Velma successfully tuned a flute
+Velma unsuccessfully tuned a flute
+There are 42 items in inventory.
+The total value of the inventory is $924.30
+0 items were damaged while tuning.
+Velma finds 42 items in store, worth $924.30
+4 buyers, 3 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Velma selling at $30.80
+Velma selling at $27.72
+Velma is selling paperscore for $27.72 to Buyer 1
+updated inventory count: 42
+Velma serving Buyer 2
+Buyer 2 wants to buy a bass
+Buyer 2 leaves, no items in stock.
+Velma serving Buyer 3
+Buyer 3 wants to buy a hats
+Buyer 3 leaves, no items in stock.
+Velma serving Buyer 4
+Buyer 4 wants to buy a mandolin
+Item is mandolin in poor condition.
+Velma selling at $22.00
+Velma is selling mandolin for $22.00 to Buyer 4
+updated inventory count: 41
+Item is stringed, Velma is attempting to sell accessories.
+Velma selling Items: mandolin totaling: 22.0
+Item mandolin cost 22.0
+2 items were sold.
+Velma serving Seller 1
+Seller 1 wants to sell a strings
+Item is strings in verygood condition.
+Velma offers $24.00
+Velma is buying strings for $24.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a cdplayer
+Item is cdplayer in excellent condition.
+Velma offers $11.00
+Velma is buying cdplayer for $11.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a cdplayer
+Item is cdplayer in excellent condition.
+Velma offers $16.00
+Velma offers $17.60
+Velma is buying cdplayer for $17.60 from Seller 3
+3 items were purchased.
+Velma is cleaning up the store.
+2 items were damaged while cleaning.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
+
+Tracker: Day 18
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 24 , 15 , 12
+Daphne , 4 , 3 , 0
+Freddy , 8 , 6 , 1
+Scooby , 10 , 3 , 2
+Frank , 4 , 2 , 0

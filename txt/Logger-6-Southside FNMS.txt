@@ -1,120 +1,140 @@
 *** Simulation of Southside FNMS, day 6 ***
 Store opens today, day 6
-Scooby is working today.
-Scooby has arrived at the store.
-Scooby arrives at store.
-Scooby checking for arriving items.
-Scooby putting a mandolin in inventory.
-Scooby putting a mandolin in inventory.
-Scooby putting a mandolin in inventory.
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+Shaggy putting a mandolin in inventory.
+Shaggy putting a mandolin in inventory.
+Shaggy putting a mandolin in inventory.
 3 items have been added to inventory.
-The cash register has $1,924.70
-Scooby checks: $1,924.70 in register.
-Scooby is doing inventory.
-Scooby counts 4 paperscore
-Scooby counts 2 cd
-Scooby counts 2 vinyl
-Scooby counts 3 cdplayer
-Scooby counts 1 recordplayer
-Scooby counts 4 mp3
-Scooby counts 3 guitar
-Scooby counts 2 bass
-Scooby counts 3 mandolin
-Scooby counts 2 flute
-Scooby counts 2 harmonica
-Scooby counts 1 hats
-Scooby counts 3 shirts
-Scooby counts 3 bandanas
-Scooby counts 1 practiceamps
-Scooby counts 1 cables
-Scooby counts 2 strings
-Scooby counts 2 gigbag
-Scooby counts 4 cassetteplayer
-Scooby counts 5 cassette
-Scooby counts 3 saxophone
-Scooby is tuning items.
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a recordplayer
-Scooby unsuccessfully tuned a mp3
-Scooby successfully tuned a guitar
-Scooby successfully tuned a bass
-Scooby unsuccessfully tuned a flute
-Scooby successfully tuned a harmonica
-Scooby successfully tuned a cassetteplayer
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a guitar
-Scooby successfully tuned a bass
-Scooby successfully tuned a flute
-Scooby unsuccessfully tuned a harmonica
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby damages something while tuning!
-A gigbag has new list price: $17.60
-Scooby successfully tuned a cassetteplayer
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cdplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a guitar
-Scooby successfully tuned a cassetteplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cassetteplayer
-Scooby successfully tuned a mandolin
-Scooby successfully tuned a mandolin
-Scooby unsuccessfully tuned a mandolin
-There are 53 items in inventory.
-The total value of the inventory is $1,443.10
-1 items were damaged while tuning.
-Scooby finds 53 items in store, worth $1,443.10
-3 buyers, 2 sellers today.
-Scooby serving Buyer 1
-Buyer 1 wants to buy a flute
-Item is flute in good condition.
-Scooby selling at $22.00
-Scooby is selling flute for $22.00 to Buyer 1
-updated inventory count: 53
-Scooby serving Buyer 2
-Buyer 2 wants to buy a saxophone
-Item is saxophone in poor condition.
-Scooby selling at $6.00
-Scooby is selling saxophone for $6.00 to Buyer 2
+The cash register has $1,861.00
+Shaggy checks: $1,861.00 in register.
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 2 cd
+Shaggy counts 2 vinyl
+Shaggy counts 4 cdplayer
+Shaggy counts 4 recordplayer
+Shaggy counts 3 mp3
+Shaggy counts 3 guitar
+Shaggy counts 2 bass
+Shaggy counts 3 mandolin
+Shaggy counts 4 flute
+Shaggy counts 1 harmonica
+Shaggy counts 1 hats
+Shaggy counts 2 shirts
+Shaggy counts 1 bandanas
+Shaggy counts 6 practiceamps
+Shaggy counts 0 cables
+Shaggy needs to order cables
+There is an order coming for cables
+Shaggy counts 0 strings
+Shaggy needs to order strings
+There is an order coming for strings
+Shaggy counts 5 gigbag
+Shaggy counts 0 cassetteplayer
+Shaggy needs to order cassetteplayer
+Shaggy ordered a cassetteplayer
+Shaggy ordered a cassetteplayer
+Shaggy ordered a cassetteplayer
+3 items were ordered.
+Shaggy counts 3 cassette
+Shaggy counts 4 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy unsuccessfully tuned a guitar
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a bass
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a flute
+Shaggy damages something while tuning!
+A flute has new list price: $12.80
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy unsuccessfully tuned a guitar
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A gigbag has new list price: $33.60
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a saxophone
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A paperscore has new list price: $4.40
+A paperscore was broken!
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a mandolin
+There are 52 items in inventory.
+The total value of the inventory is $1,022.70
+3 items were damaged while tuning.
+Shaggy finds 52 items in store, worth $1,022.70
+2 buyers, 2 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a practiceamps
+Item is practiceamps in excellent condition.
+Shaggy selling at $58.00
+Shaggy selling at $52.20
+Shaggy is selling practiceamps for $52.20 to Buyer 1
 updated inventory count: 52
-Scooby serving Buyer 3
-Buyer 3 wants to buy a vinyl
-Item is vinyl in verygood condition.
-Scooby selling at $58.00
-Scooby selling at $52.20
-Scooby is selling vinyl for $52.20 to Buyer 3
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a flute
+Item is flute in poor condition.
+Shaggy selling at $13.20
+Shaggy selling at $11.88
+Shaggy is selling flute for $11.88 to Buyer 2
 updated inventory count: 51
-3 items were sold.
-Scooby serving Seller 1
-Seller 1 wants to sell a recordplayer
-Item is recordplayer in fair condition.
-Scooby offers $16.00
-Scooby is buying recordplayer for $16.00 from Seller 1
-Scooby serving Seller 2
-Seller 2 wants to sell a cassette
-Item is cassette in verygood condition.
-Scooby offers $36.00
-Scooby offers $39.60
-Seller 2 wouldn't sell item.
-1 items were purchased.
-Scooby is cleaning up the store.
+2 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a gigbag
+Item is gigbag in poor condition.
+Shaggy offers $4.00
+Shaggy offers $4.40
+Shaggy is buying gigbag for $4.40 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a mandolin
+Item is mandolin in excellent condition.
+Shaggy offers $20.00
+Shaggy is buying mandolin for $20.00 from Seller 2
+2 items were purchased.
+Shaggy is cleaning up the store.
 2 items were damaged while cleaning.
-Scooby doesn't damage anything.
-Scooby has left the store.
-Scooby locks up the store and leaves.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
 
 Tracker: Day 6
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 14 , 6 , 2
-Shaggy , 0 , 0 , 0
-Daphne , 3 , 1 , 1
-Freddy , 5 , 2 , 1
-Scooby , 3 , 1 , 1
-Frank , 0 , 0 , 0
+Velma , 0 , 0 , 0
+Shaggy , 15 , 9 , 6
+Daphne , 0 , 0 , 0
+Freddy , 1 , 4 , 0
+Scooby , 10 , 3 , 2
+Frank , 4 , 2 , 0

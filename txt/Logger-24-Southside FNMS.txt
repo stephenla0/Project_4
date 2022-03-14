@@ -1,0 +1,148 @@
+*** Simulation of Southside FNMS, day 24 ***
+Store opens today, day 24
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
+Scooby putting a recordplayer in inventory.
+Scooby putting a recordplayer in inventory.
+Scooby putting a recordplayer in inventory.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+6 items have been added to inventory.
+The cash register has $3,552.95
+Scooby checks: $3,552.95 in register.
+Scooby is doing inventory.
+Scooby counts 2 paperscore
+Scooby counts 0 cd
+Scooby needs to order cd
+Scooby ordered a cd
+Scooby ordered a cd
+Scooby ordered a cd
+3 items were ordered.
+Scooby counts 3 vinyl
+Scooby counts 5 cdplayer
+Scooby counts 3 recordplayer
+Scooby counts 2 mp3
+Scooby counts 3 guitar
+Scooby counts 0 bass
+Scooby needs to order bass
+There is an order coming for bass
+Scooby counts 4 mandolin
+Scooby counts 3 flute
+Scooby counts 4 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 0 shirts
+Scooby needs to order shirts
+Scooby counts 0 bandanas
+Scooby needs to order bandanas
+Scooby counts 2 practiceamps
+Scooby counts 1 cables
+Scooby counts 0 strings
+Scooby needs to order strings
+There is an order coming for strings
+Scooby counts 2 gigbag
+Scooby counts 3 cassetteplayer
+Scooby counts 1 cassette
+Scooby counts 3 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a mp3
+Scooby successfully tuned a guitar
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cdplayer
+Scooby unsuccessfully tuned a mp3
+Scooby successfully tuned a guitar
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a cassetteplayer
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a cdplayer
+Scooby unsuccessfully tuned a flute
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a flute
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a guitar
+Scooby successfully tuned a flute
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a recordplayer
+Scooby unsuccessfully tuned a recordplayer
+There are 41 items in inventory.
+The total value of the inventory is $856.20
+0 items were damaged while tuning.
+Scooby finds 41 items in store, worth $856.20
+6 buyers, 4 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a strings
+Buyer 1 leaves, no items in stock.
+Scooby serving Buyer 2
+Buyer 2 wants to buy a shirts
+Buyer 2 leaves, no items in stock.
+Scooby serving Buyer 3
+Buyer 3 wants to buy a cables
+Item is cables in good condition.
+Scooby selling at $12.00
+Scooby selling at $10.80
+Scooby is selling cables for $10.80 to Buyer 3
+updated inventory count: 41
+Scooby serving Buyer 4
+Buyer 4 wants to buy a bass
+Buyer 4 leaves, no items in stock.
+Scooby serving Buyer 5
+Buyer 5 wants to buy a gigbag
+Item is gigbag in fair condition.
+Scooby selling at $28.60
+Scooby is selling gigbag for $28.60 to Buyer 5
+updated inventory count: 40
+Scooby serving Buyer 6
+Buyer 6 wants to buy a strings
+Buyer 6 leaves, no items in stock.
+2 items were sold.
+Scooby serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in verygood condition.
+Scooby offers $35.00
+Scooby is buying flute for $35.00 from Seller 1
+Scooby serving Seller 2
+Seller 2 wants to sell a cables
+Item is cables in poor condition.
+Scooby offers $3.00
+Scooby is buying cables for $3.00 from Seller 2
+Scooby serving Seller 3
+Seller 3 wants to sell a shirts
+Item is shirts in verygood condition.
+Scooby offers $25.00
+The store is no longer accepting SHIRTS
+Scooby serving Seller 4
+Seller 4 wants to sell a bass
+Item is bass in verygood condition.
+Scooby offers $20.00
+Scooby is buying bass for $20.00 from Seller 4
+3 items were purchased.
+Scooby is cleaning up the store.
+2 items were damaged while cleaning.
+Scooby doesn't damage anything.
+Scooby has left the store.
+Scooby locks up the store and leaves.
+
+Tracker: Day 24
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 32 , 17 , 15
+Daphne , 4 , 3 , 0
+Freddy , 10 , 8 , 2
+Scooby , 12 , 6 , 2
+Frank , 7 , 3 , 1

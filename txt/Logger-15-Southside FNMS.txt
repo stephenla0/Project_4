@@ -1,0 +1,159 @@
+*** Simulation of Southside FNMS, day 15 ***
+Store opens today, day 15
+Daphne is sick today and can not work.
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
+0 items have been added to inventory.
+The cash register has $2,666.15
+Velma checks: $2,666.15 in register.
+Velma is doing inventory.
+Velma counts 3 paperscore
+Velma counts 1 cd
+Velma counts 4 vinyl
+Velma counts 3 cdplayer
+Velma counts 1 recordplayer
+Velma counts 4 mp3
+Velma counts 2 guitar
+Velma counts 0 bass
+Velma needs to order bass
+There is an order coming for bass
+Velma counts 3 mandolin
+Velma counts 2 flute
+Velma counts 4 harmonica
+Velma counts 0 hats
+Velma needs to order hats
+Velma counts 1 shirts
+Velma counts 0 bandanas
+Velma needs to order bandanas
+Velma counts 4 practiceamps
+Velma counts 1 cables
+Velma counts 0 strings
+Velma needs to order strings
+There is an order coming for strings
+Velma counts 2 gigbag
+Velma counts 3 cassetteplayer
+Velma counts 5 cassette
+Velma counts 5 saxophone
+Velma is tuning items.
+Velma unsuccessfully tuned a cdplayer
+Velma unsuccessfully tuned a recordplayer
+Velma unsuccessfully tuned a mp3
+Velma successfully tuned a guitar
+Velma unsuccessfully tuned a flute
+Velma unsuccessfully tuned a saxophone
+Velma successfully tuned a cdplayer
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a guitar
+Velma successfully tuned a flute
+Velma successfully tuned a saxophone
+Velma unsuccessfully tuned a cdplayer
+Velma unsuccessfully tuned a mp3
+Velma successfully tuned a saxophone
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mandolin
+Velma unsuccessfully tuned a mandolin
+Velma unsuccessfully tuned a mandolin
+Velma successfully tuned a cassetteplayer
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a cassetteplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a saxophone
+Velma unsuccessfully tuned a harmonica
+Velma successfully tuned a harmonica
+Velma successfully tuned a harmonica
+Velma unsuccessfully tuned a harmonica
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma damages something while tuning!
+A vinyl has new list price: $12.00
+A vinyl was broken!
+Velma failed tuning but did not damage the item.
+There are 47 items in inventory.
+The total value of the inventory is $1,007.50
+1 items were damaged while tuning.
+Velma finds 47 items in store, worth $1,007.50
+6 buyers, 3 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Item is cdplayer in good condition.
+Velma selling at $56.00
+Velma is selling cdplayer for $56.00 to Buyer 1
+updated inventory count: 47
+Velma serving Buyer 2
+Buyer 2 wants to buy a flute
+Item is flute in good condition.
+Velma selling at $68.80
+Velma is selling flute for $68.80 to Buyer 2
+updated inventory count: 46
+Velma serving Buyer 3
+Buyer 3 wants to buy a cassette
+Item is cassette in good condition.
+Velma selling at $52.80
+Velma selling at $47.52
+Velma is selling cassette for $47.52 to Buyer 3
+updated inventory count: 45
+Velma serving Buyer 4
+Buyer 4 wants to buy a saxophone
+Item is saxophone in excellent condition.
+Velma selling at $50.60
+Velma is selling saxophone for $50.60 to Buyer 4
+updated inventory count: 44
+Velma serving Buyer 5
+Buyer 5 wants to buy a flute
+Item is flute in good condition.
+Velma selling at $12.80
+Velma selling at $11.52
+Velma is selling flute for $11.52 to Buyer 5
+updated inventory count: 43
+Velma serving Buyer 6
+Buyer 6 wants to buy a paperscore
+Item is paperscore in poor condition.
+Velma selling at $12.00
+Velma selling at $10.80
+Velma is selling paperscore for $10.80 to Buyer 6
+updated inventory count: 42
+6 items were sold.
+Velma serving Seller 1
+Seller 1 wants to sell a saxophone
+Item is saxophone in verygood condition.
+Velma offers $20.00
+Velma is buying saxophone for $20.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a gigbag
+Item is gigbag in verygood condition.
+Velma offers $37.00
+Velma is buying gigbag for $37.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a cables
+Item is cables in fair condition.
+Velma offers $10.00
+Velma is buying cables for $10.00 from Seller 3
+3 items were purchased.
+Velma is cleaning up the store.
+2 items were damaged while cleaning.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
+
+Tracker: Day 15
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 22 , 8 , 3
+Shaggy , 24 , 15 , 12
+Daphne , 4 , 3 , 0
+Freddy , 1 , 4 , 0
+Scooby , 10 , 3 , 2
+Frank , 4 , 2 , 0

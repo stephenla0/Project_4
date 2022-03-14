@@ -1,0 +1,145 @@
+*** Simulation of Northside FNMS, day 23 ***
+Store opens today, day 23
+Daphne is working today.
+Daphne has arrived at the store.
+Daphne arrives at store.
+Daphne checking for arriving items.
+Daphne putting a cassette in inventory.
+Daphne putting a cassette in inventory.
+Daphne putting a cassette in inventory.
+Daphne putting a guitar in inventory.
+Daphne putting a guitar in inventory.
+Daphne putting a guitar in inventory.
+6 items have been added to inventory.
+The cash register has $4,726.20
+Daphne checks: $4,726.20 in register.
+Daphne is doing inventory.
+Daphne counts 5 paperscore
+Daphne counts 1 cd
+Daphne counts 3 vinyl
+Daphne counts 0 cdplayer
+Daphne needs to order cdplayer
+Daphne ordered a cdplayer
+Daphne ordered a cdplayer
+Daphne ordered a cdplayer
+3 items were ordered.
+Daphne counts 2 recordplayer
+Daphne counts 1 mp3
+Daphne counts 3 guitar
+Daphne counts 4 bass
+Daphne counts 3 mandolin
+Daphne counts 3 flute
+Daphne counts 2 harmonica
+Daphne counts 0 hats
+Daphne needs to order hats
+Daphne counts 0 shirts
+Daphne needs to order shirts
+Daphne counts 0 bandanas
+Daphne needs to order bandanas
+Daphne counts 1 practiceamps
+Daphne counts 1 cables
+Daphne counts 0 strings
+Daphne needs to order strings
+There is an order coming for strings
+Daphne counts 0 gigbag
+Daphne needs to order gigbag
+Daphne ordered a gigbag
+Daphne ordered a gigbag
+Daphne ordered a gigbag
+3 items were ordered.
+Daphne counts 2 cassetteplayer
+Daphne counts 3 cassette
+Daphne counts 4 saxophone
+Daphne is tuning items.
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a flute
+Daphne successfully tuned a recordplayer
+Daphne successfully tuned a bass
+Daphne successfully tuned a bass
+Daphne successfully tuned a mp3
+Daphne successfully tuned a harmonica
+Daphne successfully tuned a harmonica
+Daphne successfully tuned a flute
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a cassetteplayer
+Daphne successfully tuned a flute
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a mandolin
+Daphne successfully tuned a bass
+Daphne successfully tuned a bass
+Daphne successfully tuned a saxophone
+Daphne successfully tuned a guitar
+Daphne successfully tuned a guitar
+Daphne successfully tuned a guitar
+There are 38 items in inventory.
+The total value of the inventory is $939.50
+0 items were damaged while tuning.
+Daphne finds 38 items in store, worth $939.50
+6 buyers, 2 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Buyer 1 leaves, no items in stock.
+Daphne serving Buyer 2
+Buyer 2 wants to buy a saxophone
+Item is saxophone in poor condition.
+Daphne selling at $18.00
+Daphne selling at $16.20
+Daphne is selling saxophone for $16.20 to Buyer 2
+updated inventory count: 38
+Daphne serving Buyer 3
+Buyer 3 wants to buy a mandolin
+Item is mandolin in verygood condition.
+Daphne selling at $14.00
+Daphne selling at $12.60
+Daphne is selling mandolin for $12.60 to Buyer 3
+updated inventory count: 37
+Item is stringed, Daphne is attempting to sell accessories.
+Daphne selling Items: mandolin cables totaling: 80.8
+Item mandolin cost 12.6
+Item cables cost 68.2
+Daphne serving Buyer 4
+Buyer 4 wants to buy a hats
+Buyer 4 leaves, no items in stock.
+Daphne serving Buyer 5
+Buyer 5 wants to buy a saxophone
+Item is saxophone in fair condition.
+Daphne selling at $20.00
+Daphne is selling saxophone for $20.00 to Buyer 5
+updated inventory count: 35
+Daphne serving Buyer 6
+Buyer 6 wants to buy a recordplayer
+Item is recordplayer in good condition.
+Daphne selling at $26.00
+Daphne is selling recordplayer for $26.00 to Buyer 6
+updated inventory count: 34
+5 items were sold.
+Daphne serving Seller 1
+Seller 1 wants to sell a vinyl
+Item is vinyl in fair condition.
+Daphne offers $12.00
+Daphne offers $13.20
+Seller 1 wouldn't sell item.
+Daphne serving Seller 2
+Seller 2 wants to sell a cdplayer
+Item is cdplayer in excellent condition.
+Daphne offers $26.00
+Daphne is buying cdplayer for $26.00 from Seller 2
+1 items were purchased.
+Daphne is cleaning up the store.
+2 items were damaged while cleaning.
+Daphne doesn't damage anything.
+Daphne has left the store.
+Daphne locks up the store and leaves.
+
+Tracker: Day 23
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 10 , 3 , 4
+Daphne , 30 , 8 , 2
+Freddy , 14 , 8 , 4
+Scooby , 26 , 8 , 2
+Frank , 9 , 2 , 0

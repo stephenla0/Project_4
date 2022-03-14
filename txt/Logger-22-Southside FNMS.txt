@@ -1,0 +1,138 @@
+*** Simulation of Southside FNMS, day 22 ***
+Store opens today, day 22
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,295.23
+Shaggy checks: $3,295.23 in register.
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 1 cd
+Shaggy counts 1 vinyl
+Shaggy counts 5 cdplayer
+Shaggy counts 0 recordplayer
+Shaggy needs to order recordplayer
+Shaggy ordered a recordplayer
+Shaggy ordered a recordplayer
+Shaggy ordered a recordplayer
+3 items were ordered.
+Shaggy counts 3 mp3
+Shaggy counts 4 guitar
+Shaggy counts 0 bass
+Shaggy needs to order bass
+There is an order coming for bass
+Shaggy counts 3 mandolin
+Shaggy counts 3 flute
+Shaggy counts 4 harmonica
+Shaggy counts 0 hats
+Shaggy needs to order hats
+Shaggy counts 1 shirts
+Shaggy counts 0 bandanas
+Shaggy needs to order bandanas
+Shaggy counts 3 practiceamps
+Shaggy counts 1 cables
+Shaggy counts 1 strings
+Shaggy counts 2 gigbag
+Shaggy counts 3 cassetteplayer
+Shaggy counts 1 cassette
+Shaggy counts 3 saxophone
+Shaggy is tuning items.
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a saxophone
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a mandolin
+Shaggy damages something while tuning!
+A mandolin has new list price: $62.40
+Shaggy unsuccessfully tuned a mandolin
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a harmonica
+Shaggy unsuccessfully tuned a harmonica
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a flute
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a cdplayer
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a mandolin
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a guitar
+There are 41 items in inventory.
+The total value of the inventory is $848.80
+1 items were damaged while tuning.
+Shaggy finds 41 items in store, worth $848.80
+6 buyers, 1 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a vinyl
+Item is vinyl in poor condition.
+Shaggy selling at $48.00
+Shaggy is selling vinyl for $48.00 to Buyer 1
+updated inventory count: 41
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a hats
+Buyer 2 leaves, no items in stock.
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in poor condition.
+Shaggy selling at $90.00
+Shaggy selling at $81.00
+Shaggy is selling flute for $81.00 to Buyer 3
+updated inventory count: 40
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a practiceamps
+Item is practiceamps in fair condition.
+Shaggy selling at $22.00
+Shaggy selling at $19.80
+Shaggy is selling practiceamps for $19.80 to Buyer 4
+updated inventory count: 39
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a guitar
+Item is guitar in poor condition.
+Shaggy selling at $14.00
+Shaggy selling at $12.60
+Buyer 5 wouldn't buy item.
+Shaggy serving Buyer 6
+Buyer 6 wants to buy a shirts
+Item is shirts in verygood condition.
+Shaggy selling at $43.52
+Shaggy is selling shirts for $43.52 to Buyer 6
+updated inventory count: 38
+4 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a mandolin
+Item is mandolin in fair condition.
+Shaggy offers $13.00
+Shaggy offers $14.30
+Seller 1 wouldn't sell item.
+0 items were purchased.
+Shaggy is cleaning up the store.
+2 items were damaged while cleaning.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
+
+Tracker: Day 22
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 28 , 15 , 13
+Daphne , 4 , 3 , 0
+Freddy , 10 , 8 , 2
+Scooby , 10 , 3 , 2
+Frank , 7 , 3 , 1

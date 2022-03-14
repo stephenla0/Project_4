@@ -1,157 +1,138 @@
 *** Simulation of Southside FNMS, day 3 ***
 Store opens today, day 3
-Shaggy is sick today and can not work.
-Velma is working today.
-Velma has arrived at the store.
-Velma arrives at store.
-Velma checking for arriving items.
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
 0 items have been added to inventory.
-The cash register has $1,342.50
-Velma checks: $1,342.50 in register.
-Velma is doing inventory.
-Velma counts 4 paperscore
-Velma counts 2 cd
-Velma counts 2 vinyl
-Velma counts 3 cdplayer
-Velma counts 2 recordplayer
-Velma counts 3 mp3
-Velma counts 3 guitar
-Velma counts 3 bass
-Velma counts 2 mandolin
-Velma counts 3 flute
-Velma counts 2 harmonica
-Velma counts 2 hats
-Velma counts 3 shirts
-Velma counts 3 bandanas
-Velma counts 3 practiceamps
-Velma counts 1 cables
-Velma counts 3 strings
-Velma counts 3 gigbag
-Velma counts 3 cassetteplayer
-Velma counts 4 cassette
-Velma counts 3 saxophone
-Velma is tuning items.
-Velma successfully tuned a cdplayer
-Velma successfully tuned a recordplayer
-Velma unsuccessfully tuned a mp3
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a guitar
-Velma damages something while tuning!
-A guitar has new list price: $25.60
-Velma unsuccessfully tuned a bass
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a mandolin
-Velma unsuccessfully tuned a flute
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a harmonica
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma damages something while tuning!
-A shirts has new list price: $60.80
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a cassetteplayer
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a saxophone
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a cdplayer
-Velma unsuccessfully tuned a recordplayer
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a mp3
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a guitar
-Velma successfully tuned a bass
-Velma unsuccessfully tuned a mandolin
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a flute
-Velma successfully tuned a harmonica
-Velma successfully tuned a cassetteplayer
-Velma unsuccessfully tuned a saxophone
-Velma failed tuning but did not damage the item.
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a cdplayer
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a mp3
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a guitar
-Velma failed tuning but did not damage the item.
-Velma unsuccessfully tuned a bass
-Velma failed tuning but did not damage the item.
-Velma successfully tuned a flute
-Velma successfully tuned a cassetteplayer
-Velma successfully tuned a saxophone
-There are 57 items in inventory.
-The total value of the inventory is $1,617.50
-2 items were damaged while tuning.
-Velma finds 57 items in store, worth $1,617.50
-6 buyers, 2 sellers today.
-Velma serving Buyer 1
-Buyer 1 wants to buy a cd
-Item is cd in fair condition.
-Velma selling at $56.00
-Velma selling at $50.40
-Velma is selling cd for $50.40 to Buyer 1
+The cash register has $1,358.90
+Shaggy checks: $1,358.90 in register.
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 3 cd
+Shaggy counts 3 vinyl
+Shaggy counts 4 cdplayer
+Shaggy counts 3 recordplayer
+Shaggy counts 3 mp3
+Shaggy counts 3 guitar
+Shaggy counts 1 bass
+Shaggy counts 2 mandolin
+Shaggy counts 4 flute
+Shaggy counts 2 harmonica
+Shaggy counts 3 hats
+Shaggy counts 3 shirts
+Shaggy counts 3 bandanas
+Shaggy counts 5 practiceamps
+Shaggy counts 2 cables
+Shaggy counts 1 strings
+Shaggy counts 2 gigbag
+Shaggy counts 2 cassetteplayer
+Shaggy counts 4 cassette
+Shaggy counts 4 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy unsuccessfully tuned a guitar
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy unsuccessfully tuned a harmonica
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A hats has new list price: $12.00
+A hats was broken!
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a cdplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+There are 58 items in inventory.
+The total value of the inventory is $1,142.10
+1 items were damaged while tuning.
+Shaggy finds 58 items in store, worth $1,142.10
+4 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a vinyl
+Item is vinyl in fair condition.
+Shaggy selling at $22.00
+Shaggy is selling vinyl for $22.00 to Buyer 1
+updated inventory count: 58
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Shaggy selling at $38.00
+Shaggy selling at $34.20
+Shaggy is selling cassetteplayer for $34.20 to Buyer 2
 updated inventory count: 57
-Velma serving Buyer 2
-Buyer 2 wants to buy a practiceamps
-Item is practiceamps in good condition.
-Velma selling at $88.00
-Velma is selling practiceamps for $88.00 to Buyer 2
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a cassette
+Item is cassette in fair condition.
+Shaggy selling at $33.00
+Shaggy is selling cassette for $33.00 to Buyer 3
 updated inventory count: 56
-Velma serving Buyer 3
-Buyer 3 wants to buy a hats
-Item is hats in excellent condition.
-Velma selling at $18.00
-Velma selling at $16.20
-Velma is selling hats for $16.20 to Buyer 3
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a shirts
+Item is shirts in good condition.
+Shaggy selling at $60.00
+Shaggy selling at $54.00
+Shaggy is selling shirts for $54.00 to Buyer 4
 updated inventory count: 55
-Velma serving Buyer 4
-Buyer 4 wants to buy a saxophone
-Item is saxophone in fair condition.
-Velma selling at $82.00
-Velma is selling saxophone for $82.00 to Buyer 4
-updated inventory count: 54
-Velma serving Buyer 5
-Buyer 5 wants to buy a recordplayer
-Item is recordplayer in poor condition.
-Velma selling at $70.00
-Velma is selling recordplayer for $70.00 to Buyer 5
-updated inventory count: 53
-Velma serving Buyer 6
-Buyer 6 wants to buy a vinyl
-Item is vinyl in verygood condition.
-Velma selling at $58.00
-Velma selling at $52.20
-Buyer 6 wouldn't buy item.
-5 items were sold.
-Velma serving Seller 1
-Seller 1 wants to sell a cassette
-Item is cassette in poor condition.
-Velma offers $5.00
-Velma is buying cassette for $5.00 from Seller 1
-Velma serving Seller 2
-Seller 2 wants to sell a cdplayer
-Item is cdplayer in excellent condition.
-Velma offers $48.00
-Velma is buying cdplayer for $48.00 from Seller 2
-2 items were purchased.
-Velma is cleaning up the store.
+4 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a gigbag
+Item is gigbag in excellent condition.
+Shaggy offers $50.00
+Shaggy offers $55.00
+Shaggy is buying gigbag for $55.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a saxophone
+Item is saxophone in verygood condition.
+Shaggy offers $23.00
+Shaggy is buying saxophone for $23.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a gigbag
+Item is gigbag in good condition.
+Shaggy offers $17.00
+Shaggy is buying gigbag for $17.00 from Seller 3
+3 items were purchased.
+Shaggy is cleaning up the store.
 2 items were damaged while cleaning.
-Velma doesn't damage anything.
-Velma has left the store.
-Velma locks up the store and leaves.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
 
 Tracker: Day 3
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 10 , 3 , 2
-Shaggy , 0 , 0 , 0
-Daphne , 3 , 1 , 1
-Freddy , 0 , 0 , 0
-Scooby , 0 , 0 , 0
+Velma , 0 , 0 , 0
+Shaggy , 4 , 3 , 1
+Daphne , 0 , 0 , 0
+Freddy , 1 , 4 , 0
+Scooby , 10 , 3 , 2
 Frank , 0 , 0 , 0

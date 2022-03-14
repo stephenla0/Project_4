@@ -1,0 +1,133 @@
+*** Simulation of Northside FNMS, day 29 ***
+Store opens today, day 29
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+Scooby putting a vinyl in inventory.
+3 items have been added to inventory.
+The cash register has $5,234.10
+Scooby checks: $5,234.10 in register.
+Scooby is doing inventory.
+Scooby counts 6 paperscore
+Scooby counts 1 cd
+Scooby counts 3 vinyl
+Scooby counts 4 cdplayer
+Scooby counts 3 recordplayer
+Scooby counts 1 mp3
+Scooby counts 3 guitar
+Scooby counts 3 bass
+Scooby counts 0 mandolin
+Scooby needs to order mandolin
+Scooby ordered a mandolin
+Scooby ordered a mandolin
+Scooby ordered a mandolin
+3 items were ordered.
+Scooby counts 4 flute
+Scooby counts 2 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 0 shirts
+Scooby needs to order shirts
+Scooby counts 0 bandanas
+Scooby needs to order bandanas
+Scooby counts 0 practiceamps
+Scooby needs to order practiceamps
+Scooby ordered a practiceamps
+Scooby ordered a practiceamps
+Scooby ordered a practiceamps
+3 items were ordered.
+Scooby counts 2 cables
+Scooby counts 0 strings
+Scooby needs to order strings
+There is an order coming for strings
+Scooby counts 2 gigbag
+Scooby counts 2 cassetteplayer
+Scooby counts 3 cassette
+Scooby counts 2 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a flute
+Scooby successfully tuned a bass
+Scooby successfully tuned a bass
+Scooby successfully tuned a mp3
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a harmonica
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a flute
+Scooby unsuccessfully tuned a saxophone
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cassetteplayer
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a flute
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a bass
+Scooby unsuccessfully tuned a guitar
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a guitar
+Scooby successfully tuned a guitar
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a flute
+Scooby unsuccessfully tuned a cdplayer
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a recordplayer
+There are 41 items in inventory.
+The total value of the inventory is $1,013.90
+0 items were damaged while tuning.
+Scooby finds 41 items in store, worth $1,013.90
+5 buyers, 1 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in poor condition.
+Scooby selling at $92.00
+Scooby is selling gigbag for $92.00 to Buyer 1
+updated inventory count: 41
+Scooby serving Buyer 2
+Buyer 2 wants to buy a gigbag
+Item is gigbag in good condition.
+Scooby selling at $17.60
+Scooby is selling gigbag for $17.60 to Buyer 2
+updated inventory count: 40
+Scooby serving Buyer 3
+Buyer 3 wants to buy a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Scooby selling at $78.00
+Scooby is selling cassetteplayer for $78.00 to Buyer 3
+updated inventory count: 39
+Scooby serving Buyer 4
+Buyer 4 wants to buy a hats
+Buyer 4 leaves, no items in stock.
+Scooby serving Buyer 5
+Buyer 5 wants to buy a mp3
+Item is mp3 in excellent condition.
+Scooby selling at $100.00
+Scooby is selling mp3 for $100.00 to Buyer 5
+updated inventory count: 38
+4 items were sold.
+Scooby serving Seller 1
+Seller 1 wants to sell a vinyl
+Item is vinyl in poor condition.
+Scooby offers $3.00
+Scooby offers $3.30
+Seller 1 wouldn't sell item.
+0 items were purchased.
+Scooby is cleaning up the store.
+2 items were damaged while cleaning.
+Scooby doesn't damage anything.
+Scooby has left the store.
+Scooby locks up the store and leaves.
+
+Tracker: Day 29
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 10 , 3 , 4
+Daphne , 36 , 13 , 2
+Freddy , 23 , 10 , 6
+Scooby , 30 , 8 , 2
+Frank , 9 , 2 , 0

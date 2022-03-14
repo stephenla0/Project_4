@@ -1,0 +1,156 @@
+*** Simulation of Southside FNMS, day 25 ***
+Store opens today, day 25
+Freddy is working today.
+Freddy has arrived at the store.
+Freddy arrives at store.
+Freddy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,534.35
+Freddy checks: $3,534.35 in register.
+Freddy is doing inventory.
+Freddy counts 2 paperscore
+Freddy counts 0 cd
+Freddy needs to order cd
+There is an order coming for cd
+Freddy counts 3 vinyl
+Freddy counts 5 cdplayer
+Freddy counts 3 recordplayer
+Freddy counts 2 mp3
+Freddy counts 3 guitar
+Freddy counts 1 bass
+Freddy counts 4 mandolin
+Freddy counts 4 flute
+Freddy counts 4 harmonica
+Freddy counts 0 hats
+Freddy needs to order hats
+Freddy counts 0 shirts
+Freddy needs to order shirts
+Freddy counts 0 bandanas
+Freddy needs to order bandanas
+Freddy counts 2 practiceamps
+Freddy counts 1 cables
+Freddy counts 0 strings
+Freddy needs to order strings
+There is an order coming for strings
+Freddy counts 1 gigbag
+Freddy counts 3 cassetteplayer
+Freddy counts 1 cassette
+Freddy counts 3 saxophone
+Freddy is tuning items.
+Freddy successfully tuned a cdplayer
+Freddy successfully tuned a mp3
+Freddy successfully tuned a guitar
+Freddy unsuccessfully tuned a saxophone
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a cdplayer
+Freddy successfully tuned a mp3
+Freddy successfully tuned a guitar
+Freddy successfully tuned a saxophone
+Freddy unsuccessfully tuned a saxophone
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a mandolin
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a mandolin
+Freddy successfully tuned a cassetteplayer
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy successfully tuned a cassetteplayer
+Freddy successfully tuned a harmonica
+Freddy unsuccessfully tuned a harmonica
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a harmonica
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a harmonica
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a cdplayer
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a flute
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a cdplayer
+Freddy unsuccessfully tuned a cdplayer
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a mandolin
+Freddy unsuccessfully tuned a guitar
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a mandolin
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a recordplayer
+Freddy unsuccessfully tuned a recordplayer
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a recordplayer
+Freddy successfully tuned a flute
+Freddy successfully tuned a bass
+There are 42 items in inventory.
+The total value of the inventory is $893.90
+0 items were damaged while tuning.
+Freddy finds 42 items in store, worth $893.90
+6 buyers, 3 sellers today.
+Freddy serving Buyer 1
+Buyer 1 wants to buy a mp3
+Item is mp3 in verygood condition.
+Freddy selling at $46.08
+Freddy is selling mp3 for $46.08 to Buyer 1
+updated inventory count: 42
+Freddy serving Buyer 2
+Buyer 2 wants to buy a hats
+Buyer 2 leaves, no items in stock.
+Freddy serving Buyer 3
+Buyer 3 wants to buy a guitar
+Item is guitar in excellent condition.
+Freddy selling at $33.00
+Freddy is selling guitar for $33.00 to Buyer 3
+updated inventory count: 41
+Item is stringed, Freddy is attempting to sell accessories.
+Freddy selling Items: guitar gigbag totaling: 66.6
+Item guitar cost 33.0
+Item gigbag cost 33.6
+Freddy serving Buyer 4
+Buyer 4 wants to buy a flute
+Item is flute in verygood condition.
+Freddy selling at $70.00
+Freddy is selling flute for $70.00 to Buyer 4
+updated inventory count: 39
+Freddy serving Buyer 5
+Buyer 5 wants to buy a shirts
+Buyer 5 leaves, no items in stock.
+Freddy serving Buyer 6
+Buyer 6 wants to buy a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Freddy selling at $34.00
+Freddy selling at $30.60
+Freddy is selling cassetteplayer for $30.60 to Buyer 6
+updated inventory count: 38
+5 items were sold.
+Freddy serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Freddy offers $18.00
+Freddy offers $19.80
+Seller 1 wouldn't sell item.
+Freddy serving Seller 2
+Seller 2 wants to sell a strings
+Item is strings in good condition.
+Freddy offers $11.00
+Freddy is buying strings for $11.00 from Seller 2
+Freddy serving Seller 3
+Seller 3 wants to sell a guitar
+Item is guitar in fair condition.
+Freddy offers $9.00
+Freddy offers $9.90
+Freddy is buying guitar for $9.90 from Seller 3
+2 items were purchased.
+Freddy is cleaning up the store.
+2 items were damaged while cleaning.
+Freddy doesn't damage anything.
+Freddy has left the store.
+Freddy locks up the store and leaves.
+
+Tracker: Day 25
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 32 , 17 , 15
+Daphne , 4 , 3 , 0
+Freddy , 15 , 10 , 2
+Scooby , 12 , 6 , 2
+Frank , 7 , 3 , 1

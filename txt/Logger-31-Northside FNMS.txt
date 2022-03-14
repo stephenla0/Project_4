@@ -1,0 +1,97 @@
+*** Simulation of Northside FNMS, day 31 ***
+Store opens today, day 31
+Frank is working today.
+Frank has arrived at the store.
+Frank arrives at store.
+Frank checking for arriving items.
+Frank putting a mandolin in inventory.
+Frank putting a mandolin in inventory.
+Frank putting a mandolin in inventory.
+3 items have been added to inventory.
+The cash register has $5,567.70
+Frank checks: $5,567.70 in register.
+Frank is doing inventory.
+Frank counts 6 paperscore
+Frank counts 1 cd
+Frank counts 3 vinyl
+Frank counts 5 cdplayer
+Frank counts 3 recordplayer
+Frank counts 0 mp3
+Frank needs to order mp3
+There is an order coming for mp3
+Frank counts 3 guitar
+Frank counts 3 bass
+Frank counts 4 mandolin
+Frank counts 4 flute
+Frank counts 2 harmonica
+Frank counts 0 hats
+Frank needs to order hats
+Frank counts 0 shirts
+Frank needs to order shirts
+Frank counts 0 bandanas
+Frank needs to order bandanas
+Frank counts 4 practiceamps
+Frank counts 2 cables
+Frank counts 0 strings
+Frank needs to order strings
+There is an order coming for strings
+Frank counts 0 gigbag
+Frank needs to order gigbag
+There is an order coming for gigbag
+Frank counts 0 cassetteplayer
+Frank needs to order cassetteplayer
+Frank ordered a cassetteplayer
+Frank ordered a cassetteplayer
+Frank ordered a cassetteplayer
+3 items were ordered.
+Frank counts 3 cassette
+Frank counts 2 saxophone
+Frank is tuning items.
+Frank successfully tuned a flute
+Frank successfully tuned a bass
+Frank successfully tuned a bass
+Frank successfully tuned a harmonica
+Frank successfully tuned a harmonica
+Frank successfully tuned a flute
+Frank successfully tuned a saxophone
+Frank successfully tuned a saxophone
+Frank successfully tuned a flute
+Frank successfully tuned a bass
+Frank successfully tuned a guitar
+Frank successfully tuned a guitar
+Frank successfully tuned a guitar
+Frank successfully tuned a cdplayer
+Frank successfully tuned a flute
+Frank successfully tuned a cdplayer
+Frank successfully tuned a cdplayer
+Frank successfully tuned a cdplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a cdplayer
+Frank successfully tuned a mandolin
+Frank successfully tuned a mandolin
+Frank successfully tuned a mandolin
+Frank successfully tuned a mandolin
+There are 45 items in inventory.
+The total value of the inventory is $1,055.90
+0 items were damaged while tuning.
+Frank finds 45 items in store, worth $1,055.90
+Frank is buying paperscore for $14.00 from User
+Frankis selling a Guitar kit for $231.94
+Frank is selling bass for $22.00 to User
+updated inventory count: 46
+Frank is cleaning up the store.
+2 items were damaged while cleaning.
+Frank doesn't damage anything.
+Frank has left the store.
+Frank locks up the store and leaves.
+
+Tracker: Day 31
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 16 , 13 , 2
+Shaggy , 10 , 3 , 4
+Daphne , 36 , 13 , 2
+Freddy , 23 , 10 , 6
+Scooby , 30 , 8 , 2
+Frank , 9 , 2 , 0

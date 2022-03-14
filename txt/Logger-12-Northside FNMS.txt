@@ -1,0 +1,133 @@
+*** Simulation of Northside FNMS, day 12 ***
+Store opens today, day 12
+Velma is working today.
+Velma has arrived at the store.
+Velma arrives at store.
+Velma checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,583.16
+Velma checks: $3,583.16 in register.
+Velma is doing inventory.
+Velma counts 4 paperscore
+Velma counts 1 cd
+Velma counts 3 vinyl
+Velma counts 2 cdplayer
+Velma counts 2 recordplayer
+Velma counts 2 mp3
+Velma counts 2 guitar
+Velma counts 3 bass
+Velma counts 2 mandolin
+Velma counts 3 flute
+Velma counts 3 harmonica
+Velma counts 0 hats
+Velma needs to order hats
+Velma counts 2 shirts
+Velma counts 2 bandanas
+Velma counts 2 practiceamps
+Velma counts 0 cables
+Velma needs to order cables
+There is an order coming for cables
+Velma counts 0 strings
+Velma needs to order strings
+Velma ordered a strings
+Velma ordered a strings
+Velma ordered a strings
+3 items were ordered.
+Velma counts 1 gigbag
+Velma counts 0 cassetteplayer
+Velma needs to order cassetteplayer
+There is an order coming for cassetteplayer
+Velma counts 3 cassette
+Velma counts 3 saxophone
+Velma is tuning items.
+Velma successfully tuned a cdplayer
+Velma unsuccessfully tuned a recordplayer
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a mandolin
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a flute
+Velma successfully tuned a recordplayer
+Velma successfully tuned a cdplayer
+Velma unsuccessfully tuned a bass
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a bass
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a bass
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a mp3
+Velma unsuccessfully tuned a mp3
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a harmonica
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a harmonica
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a harmonica
+Velma successfully tuned a guitar
+Velma unsuccessfully tuned a guitar
+Velma failed tuning but did not damage the item.
+Velma successfully tuned a flute
+Velma successfully tuned a mandolin
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a saxophone
+Velma failed tuning but did not damage the item.
+Velma failed tuning but did not damage the item.
+Velma unsuccessfully tuned a flute
+There are 40 items in inventory.
+The total value of the inventory is $1,127.80
+0 items were damaged while tuning.
+Velma finds 40 items in store, worth $1,127.80
+4 buyers, 2 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cassette
+Item is cassette in good condition.
+Velma selling at $33.44
+Velma is selling cassette for $33.44 to Buyer 1
+updated inventory count: 40
+Velma serving Buyer 2
+Buyer 2 wants to buy a practiceamps
+Item is practiceamps in verygood condition.
+Velma selling at $14.00
+Velma selling at $12.60
+Buyer 2 wouldn't buy item.
+Velma serving Buyer 3
+Buyer 3 wants to buy a shirts
+Item is shirts in verygood condition.
+Velma selling at $86.00
+Velma is selling shirts for $86.00 to Buyer 3
+updated inventory count: 39
+Velma serving Buyer 4
+Buyer 4 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Velma selling at $85.80
+Velma is selling cdplayer for $85.80 to Buyer 4
+updated inventory count: 38
+3 items were sold.
+Velma serving Seller 1
+Seller 1 wants to sell a gigbag
+Item is gigbag in good condition.
+Velma offers $30.00
+Velma is buying gigbag for $30.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a flute
+Item is flute in excellent condition.
+Velma offers $46.00
+Velma offers $50.60
+Velma is buying flute for $50.60 from Seller 2
+2 items were purchased.
+Velma is cleaning up the store.
+2 items were damaged while cleaning.
+Velma doesn't damage anything.
+Velma has left the store.
+Velma locks up the store and leaves.
+
+Tracker: Day 12
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 8 , 1 , 4
+Daphne , 18 , 3 , 1
+Freddy , 4 , 1 , 1
+Scooby , 14 , 4 , 0
+Frank , 9 , 2 , 0

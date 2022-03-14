@@ -1,154 +1,150 @@
 *** Simulation of Northside FNMS, day 2 ***
 Store opens today, day 2
-Daphne is working today.
-Daphne has arrived at the store.
-Daphne arrives at store.
-Daphne checking for arriving items.
+Frank is working today.
+Frank has arrived at the store.
+Frank arrives at store.
+Frank checking for arriving items.
 0 items have been added to inventory.
-The cash register has $1,142.70
-Daphne checks: $1,142.70 in register.
-Daphne is doing inventory.
-Daphne counts 3 paperscore
-Daphne counts 3 cd
-Daphne counts 3 vinyl
-Daphne counts 3 cdplayer
-Daphne counts 3 recordplayer
-Daphne counts 3 mp3
-Daphne counts 3 guitar
-Daphne counts 3 bass
-Daphne counts 3 mandolin
-Daphne counts 1 flute
-Daphne counts 4 harmonica
-Daphne counts 2 hats
-Daphne counts 3 shirts
-Daphne counts 3 bandanas
-Daphne counts 3 practiceamps
-Daphne counts 3 cables
-Daphne counts 2 strings
-Daphne counts 3 gigbag
-Daphne counts 4 cassetteplayer
-Daphne counts 3 cassette
-Daphne counts 2 saxophone
-Daphne is tuning items.
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a recordplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a guitar
-Daphne successfully tuned a bass
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a flute
-Daphne successfully tuned a harmonica
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a saxophone
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a recordplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a guitar
-Daphne successfully tuned a bass
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a harmonica
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a saxophone
-Daphne successfully tuned a cdplayer
-Daphne successfully tuned a recordplayer
-Daphne successfully tuned a mp3
-Daphne successfully tuned a guitar
-Daphne successfully tuned a bass
-Daphne successfully tuned a mandolin
-Daphne successfully tuned a harmonica
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a cassetteplayer
-Daphne successfully tuned a harmonica
-There are 60 items in inventory.
-The total value of the inventory is $1,535.70
+The cash register has $1,355.20
+Frank checks: $1,355.20 in register.
+Frank is doing inventory.
+Frank counts 3 paperscore
+Frank counts 3 cd
+Frank counts 3 vinyl
+Frank counts 1 cdplayer
+Frank counts 3 recordplayer
+Frank counts 2 mp3
+Frank counts 3 guitar
+Frank counts 2 bass
+Frank counts 3 mandolin
+Frank counts 2 flute
+Frank counts 3 harmonica
+Frank counts 3 hats
+Frank counts 3 shirts
+Frank counts 3 bandanas
+Frank counts 3 practiceamps
+Frank counts 3 cables
+Frank counts 3 strings
+Frank counts 1 gigbag
+Frank counts 3 cassetteplayer
+Frank counts 2 cassette
+Frank counts 3 saxophone
+Frank is tuning items.
+Frank successfully tuned a cdplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a guitar
+Frank successfully tuned a bass
+Frank successfully tuned a mandolin
+Frank successfully tuned a flute
+Frank successfully tuned a harmonica
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a saxophone
+Frank successfully tuned a recordplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a guitar
+Frank successfully tuned a bass
+Frank successfully tuned a mandolin
+Frank successfully tuned a flute
+Frank successfully tuned a harmonica
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a saxophone
+Frank successfully tuned a recordplayer
+Frank successfully tuned a guitar
+Frank successfully tuned a mandolin
+Frank successfully tuned a harmonica
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a saxophone
+There are 55 items in inventory.
+The total value of the inventory is $1,430.00
 0 items were damaged while tuning.
-Daphne finds 60 items in store, worth $1,535.70
-8 buyers, 4 sellers today.
-Daphne serving Buyer 1
-Buyer 1 wants to buy a paperscore
-Item is paperscore in poor condition.
-Daphne selling at $42.00
-Daphne selling at $37.80
-Daphne is selling paperscore for $37.80 to Buyer 1
-updated inventory count: 60
-Daphne serving Buyer 2
-Buyer 2 wants to buy a shirts
-Item is shirts in good condition.
-Daphne selling at $96.00
-Daphne is selling shirts for $96.00 to Buyer 2
-updated inventory count: 59
-Daphne serving Buyer 3
-Buyer 3 wants to buy a bandanas
-Item is bandanas in verygood condition.
-Daphne selling at $78.00
-Daphne is selling bandanas for $78.00 to Buyer 3
-updated inventory count: 58
-Daphne serving Buyer 4
-Buyer 4 wants to buy a vinyl
-Item is vinyl in good condition.
-Daphne selling at $76.00
-Daphne is selling vinyl for $76.00 to Buyer 4
-updated inventory count: 57
-Daphne serving Buyer 5
-Buyer 5 wants to buy a cd
-Item is cd in fair condition.
-Daphne selling at $16.00
-Daphne is selling cd for $16.00 to Buyer 5
-updated inventory count: 56
-Daphne serving Buyer 6
-Buyer 6 wants to buy a harmonica
-Item is harmonica in verygood condition.
-Daphne selling at $72.60
-Daphne is selling harmonica for $72.60 to Buyer 6
+Frank finds 55 items in store, worth $1,430.00
+9 buyers, 2 sellers today.
+Frank serving Buyer 1
+Buyer 1 wants to buy a harmonica
+Item is harmonica in excellent condition.
+Frank selling at $30.00
+Frank is selling harmonica for $30.00 to Buyer 1
 updated inventory count: 55
-Daphne serving Buyer 7
-Buyer 7 wants to buy a shirts
-Item is shirts in excellent condition.
-Daphne selling at $2.00
-Daphne selling at $1.80
-Daphne is selling shirts for $1.80 to Buyer 7
-updated inventory count: 54
-Daphne serving Buyer 8
-Buyer 8 wants to buy a cables
-Item is cables in fair condition.
-Daphne selling at $2.00
-Daphne selling at $1.80
-Buyer 8 wouldn't buy item.
-7 items were sold.
-Daphne serving Seller 1
-Seller 1 wants to sell a bandanas
+Frank serving Buyer 2
+Buyer 2 wants to buy a bandanas
 Item is bandanas in verygood condition.
-Daphne offers $12.00
-The store is no longer accepting BANDANAS
-Daphne serving Seller 2
-Seller 2 wants to sell a practiceamps
-Item is practiceamps in good condition.
-Daphne offers $14.00
-Daphne is buying practiceamps for $14.00 from Seller 2
-Daphne serving Seller 3
-Seller 3 wants to sell a mp3
-Item is mp3 in excellent condition.
-Daphne offers $12.00
-Daphne offers $13.20
-Daphne is buying mp3 for $13.20 from Seller 3
-Daphne serving Seller 4
-Seller 4 wants to sell a flute
-Item is flute in verygood condition.
-Daphne offers $37.00
-Daphne offers $40.70
-Daphne is buying flute for $40.70 from Seller 4
-3 items were purchased.
-Daphne is cleaning up the store.
+Frank selling at $26.00
+Frank is selling bandanas for $26.00 to Buyer 2
+updated inventory count: 54
+Frank serving Buyer 3
+Buyer 3 wants to buy a vinyl
+Item is vinyl in fair condition.
+Frank selling at $40.00
+Frank is selling vinyl for $40.00 to Buyer 3
+updated inventory count: 53
+Frank serving Buyer 4
+Buyer 4 wants to buy a bass
+Item is bass in good condition.
+Frank selling at $66.00
+Frank is selling bass for $66.00 to Buyer 4
+updated inventory count: 52
+Item is stringed, Frank is attempting to sell accessories.
+Frank selling Items: bass totaling: 66.0
+Item bass cost 66.0
+Frank serving Buyer 5
+Buyer 5 wants to buy a bass
+Item is bass in excellent condition.
+Frank selling at $16.00
+Frank selling at $14.40
+Frank is selling bass for $14.40 to Buyer 5
+updated inventory count: 51
+Item is stringed, Frank is attempting to sell accessories.
+Frank selling Items: bass totaling: 14.4
+Item bass cost 14.4
+Frank serving Buyer 6
+Buyer 6 wants to buy a practiceamps
+Item is practiceamps in poor condition.
+Frank selling at $20.00
+Frank is selling practiceamps for $20.00 to Buyer 6
+updated inventory count: 50
+Frank serving Buyer 7
+Buyer 7 wants to buy a harmonica
+Item is harmonica in verygood condition.
+Frank selling at $24.00
+Frank is selling harmonica for $24.00 to Buyer 7
+updated inventory count: 49
+Frank serving Buyer 8
+Buyer 8 wants to buy a flute
+Item is flute in fair condition.
+Frank selling at $14.00
+Frank is selling flute for $14.00 to Buyer 8
+updated inventory count: 48
+Frank serving Buyer 9
+Buyer 9 wants to buy a saxophone
+Item is saxophone in verygood condition.
+Frank selling at $30.00
+Frank is selling saxophone for $30.00 to Buyer 9
+updated inventory count: 47
+9 items were sold.
+Frank serving Seller 1
+Seller 1 wants to sell a cdplayer
+Item is cdplayer in excellent condition.
+Frank offers $39.00
+Frank offers $42.90
+Frank is buying cdplayer for $42.90 from Seller 1
+Frank serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in excellent condition.
+Frank offers $43.00
+Frank is buying harmonica for $43.00 from Seller 2
+2 items were purchased.
+Frank is cleaning up the store.
 2 items were damaged while cleaning.
-Daphne doesn't damage anything.
-Daphne has left the store.
-Daphne locks up the store and leaves.
+Frank doesn't damage anything.
+Frank has left the store.
+Frank locks up the store and leaves.
 
 Tracker: Day 2
 Clerk, Items Sold, Items Purchased, Items Damaged
 Velma , 0 , 0 , 0
-Shaggy , 5 , 2 , 0
-Daphne , 7 , 3 , 0
+Shaggy , 0 , 0 , 0
+Daphne , 9 , 1 , 0
 Freddy , 0 , 0 , 0
 Scooby , 0 , 0 , 0
-Frank , 0 , 0 , 0
+Frank , 9 , 2 , 0

@@ -4,125 +4,134 @@ Scooby is working today.
 Scooby has arrived at the store.
 Scooby arrives at store.
 Scooby checking for arriving items.
-0 items have been added to inventory.
-The cash register has $2,629.90
-Scooby checks: $2,629.90 in register.
+Scooby putting a saxophone in inventory.
+Scooby putting a saxophone in inventory.
+Scooby putting a saxophone in inventory.
+3 items have been added to inventory.
+The cash register has $2,733.44
+Scooby checks: $2,733.44 in register.
 Scooby is doing inventory.
-Scooby counts 1 paperscore
-Scooby counts 2 cd
+Scooby counts 4 paperscore
+Scooby counts 1 cd
 Scooby counts 3 vinyl
-Scooby counts 3 cdplayer
+Scooby counts 2 cdplayer
 Scooby counts 2 recordplayer
-Scooby counts 5 mp3
-Scooby counts 0 guitar
-Scooby needs to order guitar
-Scooby ordered a guitar
-Scooby ordered a guitar
-Scooby ordered a guitar
-3 items were ordered.
-Scooby counts 2 bass
-Scooby counts 3 mandolin
+Scooby counts 3 mp3
+Scooby counts 4 guitar
+Scooby counts 3 bass
+Scooby counts 2 mandolin
 Scooby counts 2 flute
 Scooby counts 3 harmonica
 Scooby counts 0 hats
 Scooby needs to order hats
-Scooby counts 1 shirts
-Scooby counts 0 bandanas
-Scooby needs to order bandanas
+Scooby counts 3 shirts
+Scooby counts 2 bandanas
 Scooby counts 2 practiceamps
-Scooby counts 1 cables
+Scooby counts 3 cables
 Scooby counts 0 strings
 Scooby needs to order strings
-There is an order coming for strings
-Scooby counts 0 gigbag
-Scooby needs to order gigbag
-Scooby ordered a gigbag
-Scooby ordered a gigbag
-Scooby ordered a gigbag
+Scooby ordered a strings
+Scooby ordered a strings
+Scooby ordered a strings
 3 items were ordered.
-Scooby counts 3 cassetteplayer
-Scooby counts 5 cassette
+Scooby counts 4 gigbag
+Scooby counts 1 cassetteplayer
+Scooby counts 3 cassette
 Scooby counts 3 saxophone
 Scooby is tuning items.
 Scooby successfully tuned a cdplayer
 Scooby successfully tuned a recordplayer
-Scooby unsuccessfully tuned a mp3
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a bass
 Scooby successfully tuned a mandolin
 Scooby successfully tuned a flute
-Scooby successfully tuned a harmonica
-Scooby unsuccessfully tuned a cassetteplayer
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a saxophone
-Scooby successfully tuned a cdplayer
+Scooby successfully tuned a cassetteplayer
 Scooby successfully tuned a recordplayer
-Scooby successfully tuned a mp3
-Scooby successfully tuned a bass
-Scooby successfully tuned a mandolin
-Scooby successfully tuned a harmonica
-Scooby unsuccessfully tuned a cassetteplayer
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a saxophone
 Scooby successfully tuned a cdplayer
+Scooby successfully tuned a bass
+Scooby successfully tuned a bass
+Scooby successfully tuned a bass
 Scooby successfully tuned a mp3
-Scooby successfully tuned a mandolin
+Scooby successfully tuned a mp3
+Scooby successfully tuned a mp3
 Scooby successfully tuned a harmonica
-Scooby unsuccessfully tuned a cassetteplayer
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a harmonica
 Scooby failed tuning but did not damage the item.
 Scooby failed tuning but did not damage the item.
-Scooby successfully tuned a mp3
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a guitar
+Scooby successfully tuned a guitar
+Scooby successfully tuned a guitar
 Scooby unsuccessfully tuned a flute
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
-Scooby failed tuning but did not damage the item.
+Scooby unsuccessfully tuned a guitar
+Scooby unsuccessfully tuned a mandolin
 Scooby successfully tuned a saxophone
-Scooby successfully tuned a mp3
-There are 41 items in inventory.
-The total value of the inventory is $994.10
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a saxophone
+There are 50 items in inventory.
+The total value of the inventory is $1,419.40
 0 items were damaged while tuning.
-Scooby finds 41 items in store, worth $994.10
-3 buyers, 3 sellers today.
+Scooby finds 50 items in store, worth $1,419.40
+8 buyers, 1 sellers today.
 Scooby serving Buyer 1
-Buyer 1 wants to buy a paperscore
-Item is paperscore in fair condition.
-Scooby selling at $62.00
-Scooby is selling paperscore for $62.00 to Buyer 1
-updated inventory count: 41
+Buyer 1 wants to buy a harmonica
+Item is harmonica in good condition.
+Scooby selling at $4.00
+Scooby selling at $3.60
+Buyer 1 wouldn't buy item.
 Scooby serving Buyer 2
-Buyer 2 wants to buy a vinyl
-Item is vinyl in verygood condition.
-Scooby selling at $26.00
-Scooby is selling vinyl for $26.00 to Buyer 2
-updated inventory count: 40
+Buyer 2 wants to buy a guitar
+Item is guitar in excellent condition.
+Scooby selling at $98.00
+Scooby is selling guitar for $98.00 to Buyer 2
+updated inventory count: 50
+Item is stringed, Scooby is attempting to sell accessories.
+Scooby selling Items: guitar cables cables totaling: 254.0
+Item guitar cost 98.0
+Item cables cost 98.0
+Item cables cost 58.0
 Scooby serving Buyer 3
-Buyer 3 wants to buy a cassetteplayer
-Item is cassetteplayer in excellent condition.
-Scooby selling at $76.00
-Scooby selling at $68.40
-Buyer 3 wouldn't buy item.
-2 items were sold.
+Buyer 3 wants to buy a mp3
+Item is mp3 in fair condition.
+Scooby selling at $10.00
+Scooby is selling mp3 for $10.00 to Buyer 3
+updated inventory count: 47
+Scooby serving Buyer 4
+Buyer 4 wants to buy a cables
+Item is cables in verygood condition.
+Scooby selling at $56.00
+Scooby selling at $50.40
+Scooby is selling cables for $50.40 to Buyer 4
+updated inventory count: 46
+Scooby serving Buyer 5
+Buyer 5 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Scooby selling at $79.20
+Scooby is selling paperscore for $79.20 to Buyer 5
+updated inventory count: 45
+Scooby serving Buyer 6
+Buyer 6 wants to buy a hats
+Buyer 6 leaves, no items in stock.
+Scooby serving Buyer 7
+Buyer 7 wants to buy a cassetteplayer
+Item is cassetteplayer in good condition.
+Scooby selling at $90.00
+Scooby selling at $81.00
+Scooby is selling cassetteplayer for $81.00 to Buyer 7
+updated inventory count: 44
+Scooby serving Buyer 8
+Buyer 8 wants to buy a harmonica
+Item is harmonica in good condition.
+Scooby selling at $4.00
+Scooby selling at $3.60
+Buyer 8 wouldn't buy item.
+7 items were sold.
 Scooby serving Seller 1
-Seller 1 wants to sell a flute
-Item is flute in excellent condition.
-Scooby offers $23.00
-Scooby offers $25.30
-Scooby is buying flute for $25.30 from Seller 1
-Scooby serving Seller 2
-Seller 2 wants to sell a practiceamps
-Item is practiceamps in excellent condition.
-Scooby offers $12.00
-Scooby is buying practiceamps for $12.00 from Seller 2
-Scooby serving Seller 3
-Seller 3 wants to sell a strings
-Item is strings in excellent condition.
-Scooby offers $47.00
-Scooby offers $51.70
-Scooby is buying strings for $51.70 from Seller 3
-3 items were purchased.
+Seller 1 wants to sell a mandolin
+Item is mandolin in excellent condition.
+Scooby offers $19.00
+Scooby offers $20.90
+Scooby is buying mandolin for $20.90 from Seller 1
+1 items were purchased.
 Scooby is cleaning up the store.
 2 items were damaged while cleaning.
 Scooby doesn't damage anything.
@@ -131,9 +140,9 @@ Scooby locks up the store and leaves.
 
 Tracker: Day 10
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 19 , 8 , 2
-Shaggy , 11 , 3 , 2
-Daphne , 7 , 3 , 0
-Freddy , 0 , 0 , 0
-Scooby , 2 , 3 , 0
-Frank , 4 , 2 , 0
+Velma , 12 , 8 , 1
+Shaggy , 8 , 1 , 4
+Daphne , 9 , 1 , 0
+Freddy , 4 , 1 , 1
+Scooby , 14 , 4 , 0
+Frank , 9 , 2 , 0

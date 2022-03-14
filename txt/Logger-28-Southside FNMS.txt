@@ -1,0 +1,12 @@
+*** Simulation of Southside FNMS, day 28 ***
+Store is closed today, day 28
+Store is closed today, day 28
+
+Tracker: Day 28
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 32 , 17 , 15
+Daphne , 5 , 5 , 0
+Freddy , 15 , 10 , 2
+Scooby , 15 , 9 , 2
+Frank , 7 , 3 , 1

@@ -1,0 +1,157 @@
+*** Simulation of Southside FNMS, day 12 ***
+Store opens today, day 12
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+Shaggy putting a harmonica in inventory.
+Shaggy putting a harmonica in inventory.
+Shaggy putting a harmonica in inventory.
+Shaggy putting a vinyl in inventory.
+Shaggy putting a vinyl in inventory.
+Shaggy putting a vinyl in inventory.
+6 items have been added to inventory.
+The cash register has $2,418.37
+Shaggy checks: $2,418.37 in register.
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 1 cd
+Shaggy counts 3 vinyl
+Shaggy counts 3 cdplayer
+Shaggy counts 2 recordplayer
+Shaggy counts 4 mp3
+Shaggy counts 2 guitar
+Shaggy counts 0 bass
+Shaggy needs to order bass
+There is an order coming for bass
+Shaggy counts 3 mandolin
+Shaggy counts 2 flute
+Shaggy counts 4 harmonica
+Shaggy counts 1 hats
+Shaggy counts 1 shirts
+Shaggy counts 0 bandanas
+Shaggy needs to order bandanas
+Shaggy counts 5 practiceamps
+Shaggy counts 3 cables
+Shaggy counts 0 strings
+Shaggy needs to order strings
+There is an order coming for strings
+Shaggy counts 2 gigbag
+Shaggy counts 4 cassetteplayer
+Shaggy counts 3 cassette
+Shaggy counts 5 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A hats has new list price: $11.20
+Shaggy damages something while tuning!
+A shirts has new list price: $43.52
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A cassette has new list price: $17.60
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy unsuccessfully tuned a recordplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy unsuccessfully tuned a mp3
+Shaggy damages something while tuning!
+A mp3 has new list price: $57.60
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a flute
+Shaggy damages something while tuning!
+A flute has new list price: $68.80
+Shaggy failed tuning but did not damage the item.
+Shaggy damages something while tuning!
+A cassette has new list price: $75.20
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a mandolin
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a saxophone
+Shaggy unsuccessfully tuned a harmonica
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a harmonica
+There are 50 items in inventory.
+The total value of the inventory is $1,110.80
+6 items were damaged while tuning.
+Shaggy finds 50 items in store, worth $1,110.80
+6 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in excellent condition.
+Shaggy selling at $110.00
+Shaggy selling at $99.00
+Shaggy is selling gigbag for $99.00 to Buyer 1
+updated inventory count: 50
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a cables
+Item is cables in verygood condition.
+Shaggy selling at $24.00
+Shaggy selling at $21.60
+Buyer 2 wouldn't buy item.
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a strings
+Buyer 3 leaves, no items in stock.
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a recordplayer
+Item is recordplayer in good condition.
+Shaggy selling at $46.00
+Shaggy is selling recordplayer for $46.00 to Buyer 4
+updated inventory count: 49
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a cassetteplayer
+Item is cassetteplayer in fair condition.
+Shaggy selling at $38.00
+Shaggy selling at $34.20
+Shaggy is selling cassetteplayer for $34.20 to Buyer 5
+updated inventory count: 48
+Shaggy serving Buyer 6
+Buyer 6 wants to buy a bandanas
+Buyer 6 leaves, no items in stock.
+3 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a hats
+Item is hats in fair condition.
+Shaggy offers $15.00
+The store is no longer accepting HATS
+Shaggy serving Seller 2
+Seller 2 wants to sell a cassette
+Item is cassette in good condition.
+Shaggy offers $27.00
+Shaggy is buying cassette for $27.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a paperscore
+Item is paperscore in poor condition.
+Shaggy offers $6.00
+Shaggy is buying paperscore for $6.00 from Seller 3
+2 items were purchased.
+Shaggy is cleaning up the store.
+2 items were damaged while cleaning.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
+
+Tracker: Day 12
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 12 , 2 , 2
+Shaggy , 24 , 15 , 12
+Daphne , 4 , 3 , 0
+Freddy , 1 , 4 , 0
+Scooby , 10 , 3 , 2
+Frank , 4 , 2 , 0

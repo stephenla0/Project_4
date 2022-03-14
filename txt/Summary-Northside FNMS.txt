@@ -1,19 +1,19 @@
 Summary of: Northside FNMS
 
 Items remaining in inventory:
-cd vinyl cdplayer recordplayer mp3 bass mandolin flute harmonica shirts practiceamps cassetteplayer cassette saxophone cd cdplayer recordplayer mp3 bass mandolin harmonica cassetteplayer cassette saxophone cdplayer mp3 mandolin harmonica cables cassetteplayer cassette mp3 flute cassette vinyl cassette saxophone mp3 practiceamps flute practiceamps strings strings strings strings gigbag gigbag gigbag 
+paperscore cd flute paperscore paperscore bass bass harmonica harmonica flute saxophone saxophone paperscore paperscore flute cassette cassette cassette guitar guitar guitar cdplayer flute cdplayer cdplayer cdplayer cables cables recordplayer recordplayer recordplayer paperscore vinyl vinyl vinyl practiceamps practiceamps practiceamps cdplayer practiceamps mandolin mandolin mandolin mandolin paperscore 
 
 Total value of remaining items:
-$1,165.10
+$1,058.90
 
 Items sold:
-cd vinyl cdplayer recordplayer mp3 bass mandolin flute harmonica shirts practiceamps cassetteplayer cassette saxophone cd cdplayer recordplayer mp3 bass mandolin harmonica cassetteplayer cassette saxophone cdplayer mp3 mandolin harmonica cables cassetteplayer cassette mp3 flute cassette vinyl cassette saxophone mp3 practiceamps flute practiceamps strings strings strings strings gigbag gigbag gigbag 
+paperscore cd flute paperscore paperscore bass bass harmonica harmonica flute saxophone saxophone paperscore paperscore flute cassette cassette cassette guitar guitar guitar cdplayer flute cdplayer cdplayer cdplayer cables cables recordplayer recordplayer recordplayer paperscore vinyl vinyl vinyl practiceamps practiceamps practiceamps cdplayer practiceamps mandolin mandolin mandolin mandolin paperscore 
 
 Total value of sold items:
-$2,273.25
+$5,893.44
 
 Money left in cash register:
-$2,672.90
+$5,655.70
 
 Money added to register from bank:
 $1,000.00

@@ -1,0 +1,116 @@
+*** Simulation of Southside FNMS, day 19 ***
+Store opens today, day 19
+Frank is working today.
+Frank has arrived at the store.
+Frank arrives at store.
+Frank checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,091.61
+Frank checks: $3,091.61 in register.
+Frank is doing inventory.
+Frank counts 2 paperscore
+Frank counts 1 cd
+Frank counts 2 vinyl
+Frank counts 5 cdplayer
+Frank counts 1 recordplayer
+Frank counts 4 mp3
+Frank counts 2 guitar
+Frank counts 0 bass
+Frank needs to order bass
+There is an order coming for bass
+Frank counts 2 mandolin
+Frank counts 3 flute
+Frank counts 4 harmonica
+Frank counts 0 hats
+Frank needs to order hats
+Frank counts 1 shirts
+Frank counts 0 bandanas
+Frank needs to order bandanas
+Frank counts 3 practiceamps
+Frank counts 1 cables
+Frank counts 1 strings
+Frank counts 2 gigbag
+Frank counts 3 cassetteplayer
+Frank counts 2 cassette
+Frank counts 4 saxophone
+Frank is tuning items.
+Frank successfully tuned a cdplayer
+Frank successfully tuned a recordplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a guitar
+Frank successfully tuned a saxophone
+Frank successfully tuned a cdplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a guitar
+Frank successfully tuned a saxophone
+Frank successfully tuned a mp3
+Frank successfully tuned a saxophone
+Frank successfully tuned a saxophone
+Frank successfully tuned a mandolin
+Frank successfully tuned a mandolin
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a cassetteplayer
+Frank successfully tuned a mp3
+Frank successfully tuned a harmonica
+Frank successfully tuned a harmonica
+Frank successfully tuned a harmonica
+Frank successfully tuned a harmonica
+Frank successfully tuned a cdplayer
+Frank successfully tuned a flute
+Frank successfully tuned a flute
+Frank successfully tuned a flute
+Frank successfully tuned a cdplayer
+Frank successfully tuned a cdplayer
+There are 43 items in inventory.
+The total value of the inventory is $950.50
+0 items were damaged while tuning.
+Frank finds 43 items in store, worth $950.50
+3 buyers, 2 sellers today.
+Frank serving Buyer 1
+Buyer 1 wants to buy a vinyl
+Item is vinyl in excellent condition.
+Frank selling at $90.00
+Frank selling at $81.00
+Frank is selling vinyl for $81.00 to Buyer 1
+updated inventory count: 43
+Frank serving Buyer 2
+Buyer 2 wants to buy a mp3
+Item is mp3 in excellent condition.
+Frank selling at $36.00
+Frank is selling mp3 for $36.00 to Buyer 2
+updated inventory count: 42
+Frank serving Buyer 3
+Buyer 3 wants to buy a saxophone
+Item is saxophone in poor condition.
+Frank selling at $4.40
+Frank selling at $3.96
+Frank is selling saxophone for $3.96 to Buyer 3
+updated inventory count: 41
+3 items were sold.
+Frank serving Seller 1
+Seller 1 wants to sell a bandanas
+Item is bandanas in excellent condition.
+Frank offers $46.00
+The store is no longer accepting BANDANAS
+Frank serving Seller 2
+Seller 2 wants to sell a mandolin
+Item is mandolin in good condition.
+Frank offers $20.00
+Frank is buying mandolin for $20.00 from Seller 2
+1 items were purchased.
+Frank is cleaning up the store.
+1 items were damaged while cleaning.
+Frank damages something!
+A mandolin has new list price: $17.60
+Frank has left the store.
+Frank locks up the store and leaves.
+
+Tracker: Day 19
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 24 , 11 , 3
+Shaggy , 24 , 15 , 12
+Daphne , 4 , 3 , 0
+Freddy , 8 , 6 , 1
+Scooby , 10 , 3 , 2
+Frank , 7 , 3 , 1

@@ -1,0 +1,106 @@
+*** Simulation of Southside FNMS, day 31 ***
+Store opens today, day 31
+Freddy is working today.
+Freddy has arrived at the store.
+Freddy arrives at store.
+Freddy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $4,024.13
+Freddy checks: $4,024.13 in register.
+Freddy is doing inventory.
+Freddy counts 0 paperscore
+Freddy needs to order paperscore
+Freddy ordered a paperscore
+Freddy ordered a paperscore
+Freddy ordered a paperscore
+3 items were ordered.
+Freddy counts 3 cd
+Freddy counts 4 vinyl
+Freddy counts 4 cdplayer
+Freddy counts 2 recordplayer
+Freddy counts 2 mp3
+Freddy counts 1 guitar
+Freddy counts 2 bass
+Freddy counts 2 mandolin
+Freddy counts 2 flute
+Freddy counts 4 harmonica
+Freddy counts 0 hats
+Freddy needs to order hats
+Freddy counts 0 shirts
+Freddy needs to order shirts
+Freddy counts 0 bandanas
+Freddy needs to order bandanas
+Freddy counts 4 practiceamps
+Freddy counts 0 cables
+Freddy needs to order cables
+There is an order coming for cables
+Freddy counts 0 strings
+Freddy needs to order strings
+There is an order coming for strings
+Freddy counts 0 gigbag
+Freddy needs to order gigbag
+There is an order coming for gigbag
+Freddy counts 3 cassetteplayer
+Freddy counts 3 cassette
+Freddy counts 3 saxophone
+Freddy is tuning items.
+Freddy unsuccessfully tuned a cdplayer
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a mp3
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a guitar
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a cdplayer
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a saxophone
+Freddy unsuccessfully tuned a mandolin
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a mandolin
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a harmonica
+Freddy unsuccessfully tuned a harmonica
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a harmonica
+Freddy successfully tuned a harmonica
+Freddy unsuccessfully tuned a cdplayer
+Freddy damages something while tuning!
+A cdplayer has new list price: $26.40
+Freddy successfully tuned a flute
+Freddy unsuccessfully tuned a flute
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a cdplayer
+Freddy failed tuning but did not damage the item.
+Freddy unsuccessfully tuned a recordplayer
+Freddy damages something while tuning!
+A recordplayer has new list price: $40.00
+Freddy successfully tuned a recordplayer
+Freddy unsuccessfully tuned a bass
+Freddy damages something while tuning!
+A bass has new list price: $32.00
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy failed tuning but did not damage the item.
+Freddy successfully tuned a mp3
+Freddy successfully tuned a bass
+Freddy successfully tuned a cassetteplayer
+There are 39 items in inventory.
+The total value of the inventory is $805.10
+3 items were damaged while tuning.
+Freddy finds 39 items in store, worth $805.10
+Freddy is cleaning up the store.
+2 items were damaged while cleaning.
+Freddy doesn't damage anything.
+Freddy has left the store.
+Freddy locks up the store and leaves.
+
+Tracker: Day 31
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 30 , 12 , 4
+Shaggy , 32 , 17 , 15
+Daphne , 9 , 7 , 0
+Freddy , 15 , 10 , 5
+Scooby , 15 , 9 , 2
+Frank , 7 , 3 , 1

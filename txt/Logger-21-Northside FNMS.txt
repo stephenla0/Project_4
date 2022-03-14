@@ -1,0 +1,12 @@
+*** Simulation of Northside FNMS, day 21 ***
+Store is closed today, day 21
+Store is closed today, day 21
+
+Tracker: Day 21
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 10 , 3 , 4
+Daphne , 25 , 7 , 2
+Freddy , 11 , 6 , 1
+Scooby , 26 , 8 , 2
+Frank , 9 , 2 , 0

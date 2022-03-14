@@ -1,0 +1,109 @@
+*** Simulation of Northside FNMS, day 16 ***
+Store opens today, day 16
+Shaggy is working today.
+Shaggy has arrived at the store.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+0 items have been added to inventory.
+The cash register has $3,953.00
+Shaggy checks: $3,953.00 in register.
+Shaggy is doing inventory.
+Shaggy counts 4 paperscore
+Shaggy counts 1 cd
+Shaggy counts 3 vinyl
+Shaggy counts 1 cdplayer
+Shaggy counts 3 recordplayer
+Shaggy counts 1 mp3
+Shaggy counts 2 guitar
+Shaggy counts 3 bass
+Shaggy counts 1 mandolin
+Shaggy counts 3 flute
+Shaggy counts 3 harmonica
+Shaggy counts 0 hats
+Shaggy needs to order hats
+Shaggy counts 1 shirts
+Shaggy counts 2 bandanas
+Shaggy counts 2 practiceamps
+Shaggy counts 3 cables
+Shaggy counts 1 strings
+Shaggy counts 2 gigbag
+Shaggy counts 3 cassetteplayer
+Shaggy counts 1 cassette
+Shaggy counts 3 saxophone
+Shaggy is tuning items.
+Shaggy successfully tuned a cdplayer
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a mandolin
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a recordplayer
+Shaggy successfully tuned a bass
+Shaggy successfully tuned a bass
+Shaggy unsuccessfully tuned a bass
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a mp3
+Shaggy successfully tuned a harmonica
+Shaggy unsuccessfully tuned a harmonica
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a harmonica
+Shaggy successfully tuned a guitar
+Shaggy successfully tuned a guitar
+Shaggy unsuccessfully tuned a flute
+Shaggy failed tuning but did not damage the item.
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a saxophone
+Shaggy successfully tuned a flute
+Shaggy successfully tuned a cassetteplayer
+Shaggy successfully tuned a cassetteplayer
+Shaggy unsuccessfully tuned a cassetteplayer
+Shaggy failed tuning but did not damage the item.
+Shaggy successfully tuned a recordplayer
+There are 43 items in inventory.
+The total value of the inventory is $1,177.00
+0 items were damaged while tuning.
+Shaggy finds 43 items in store, worth $1,177.00
+3 buyers, 2 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a cdplayer
+Item is cdplayer in verygood condition.
+Shaggy selling at $56.00
+Shaggy is selling cdplayer for $56.00 to Buyer 1
+updated inventory count: 43
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a hats
+Buyer 2 leaves, no items in stock.
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a cables
+Item is cables in verygood condition.
+Shaggy selling at $94.00
+Shaggy is selling cables for $94.00 to Buyer 3
+updated inventory count: 42
+2 items were sold.
+Shaggy serving Seller 1
+Seller 1 wants to sell a cdplayer
+Item is cdplayer in good condition.
+Shaggy offers $26.00
+Shaggy offers $28.60
+Shaggy is buying cdplayer for $28.60 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a cassette
+Item is cassette in fair condition.
+Shaggy offers $8.00
+Shaggy offers $8.80
+Shaggy is buying cassette for $8.80 from Seller 2
+2 items were purchased.
+Shaggy is cleaning up the store.
+2 items were damaged while cleaning.
+Shaggy doesn't damage anything.
+Shaggy has left the store.
+Shaggy locks up the store and leaves.
+
+Tracker: Day 16
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 10 , 3 , 4
+Daphne , 21 , 4 , 1
+Freddy , 6 , 3 , 1
+Scooby , 14 , 4 , 0
+Frank , 9 , 2 , 0

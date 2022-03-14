@@ -1,0 +1,144 @@
+*** Simulation of Northside FNMS, day 20 ***
+Store opens today, day 20
+Scooby is working today.
+Scooby has arrived at the store.
+Scooby arrives at store.
+Scooby checking for arriving items.
+Scooby putting a mandolin in inventory.
+Scooby putting a mandolin in inventory.
+Scooby putting a mandolin in inventory.
+3 items have been added to inventory.
+The cash register has $4,434.04
+Scooby checks: $4,434.04 in register.
+Scooby is doing inventory.
+Scooby counts 5 paperscore
+Scooby counts 2 cd
+Scooby counts 3 vinyl
+Scooby counts 1 cdplayer
+Scooby counts 2 recordplayer
+Scooby counts 2 mp3
+Scooby counts 1 guitar
+Scooby counts 3 bass
+Scooby counts 4 mandolin
+Scooby counts 3 flute
+Scooby counts 3 harmonica
+Scooby counts 0 hats
+Scooby needs to order hats
+Scooby counts 1 shirts
+Scooby counts 0 bandanas
+Scooby needs to order bandanas
+Scooby counts 1 practiceamps
+Scooby counts 1 cables
+Scooby counts 2 strings
+Scooby counts 1 gigbag
+Scooby counts 2 cassetteplayer
+Scooby counts 0 cassette
+Scooby needs to order cassette
+Scooby ordered a cassette
+Scooby ordered a cassette
+Scooby ordered a cassette
+3 items were ordered.
+Scooby counts 3 saxophone
+Scooby is tuning items.
+Scooby successfully tuned a recordplayer
+Scooby successfully tuned a flute
+Scooby unsuccessfully tuned a recordplayer
+Scooby successfully tuned a bass
+Scooby unsuccessfully tuned a bass
+Scooby successfully tuned a bass
+Scooby successfully tuned a mp3
+Scooby successfully tuned a harmonica
+Scooby successfully tuned a harmonica
+Scooby unsuccessfully tuned a harmonica
+Scooby unsuccessfully tuned a guitar
+Scooby failed tuning but did not damage the item.
+Scooby successfully tuned a flute
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a saxophone
+Scooby successfully tuned a cassetteplayer
+Scooby unsuccessfully tuned a cassetteplayer
+Scooby successfully tuned a cdplayer
+Scooby successfully tuned a mp3
+Scooby successfully tuned a flute
+Scooby unsuccessfully tuned a mandolin
+Scooby unsuccessfully tuned a mandolin
+Scooby successfully tuned a mandolin
+Scooby successfully tuned a mandolin
+There are 40 items in inventory.
+The total value of the inventory is $1,061.20
+0 items were damaged while tuning.
+Scooby finds 40 items in store, worth $1,061.20
+5 buyers, 3 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a cd
+Item is cd in verygood condition.
+Scooby selling at $35.20
+Scooby is selling cd for $35.20 to Buyer 1
+updated inventory count: 40
+Scooby serving Buyer 2
+Buyer 2 wants to buy a mandolin
+Item is mandolin in good condition.
+Scooby selling at $6.00
+Scooby is selling mandolin for $6.00 to Buyer 2
+updated inventory count: 39
+Item is stringed, Scooby is attempting to sell accessories.
+Scooby selling Items: mandolin totaling: 6.0
+Item mandolin cost 6.0
+Scooby serving Buyer 3
+Buyer 3 wants to buy a cables
+Item is cables in excellent condition.
+Scooby selling at $4.00
+Scooby is selling cables for $4.00 to Buyer 3
+updated inventory count: 38
+Scooby serving Buyer 4
+Buyer 4 wants to buy a mp3
+Item is mp3 in good condition.
+Scooby selling at $55.00
+Scooby is selling mp3 for $55.00 to Buyer 4
+updated inventory count: 37
+Scooby serving Buyer 5
+Buyer 5 wants to buy a guitar
+Item is guitar in poor condition.
+Scooby selling at $58.00
+Scooby is selling guitar for $58.00 to Buyer 5
+updated inventory count: 36
+Item is stringed, Scooby is attempting to sell accessories.
+Scooby selling Items: guitar strings strings totaling: 106.2
+Item guitar cost 58.0
+Item strings cost 24.0
+Item strings cost 24.2
+7 items were sold.
+Scooby serving Seller 1
+Seller 1 wants to sell a mp3
+Item is mp3 in good condition.
+Scooby offers $10.00
+Scooby offers $11.00
+Seller 1 wouldn't sell item.
+Scooby serving Seller 2
+Seller 2 wants to sell a bass
+Item is bass in fair condition.
+Scooby offers $10.00
+Scooby offers $11.00
+Scooby is buying bass for $11.00 from Seller 2
+Scooby serving Seller 3
+Seller 3 wants to sell a cables
+Item is cables in verygood condition.
+Scooby offers $31.00
+Scooby offers $34.10
+Scooby is buying cables for $34.10 from Seller 3
+2 items were purchased.
+Scooby is cleaning up the store.
+2 items were damaged while cleaning.
+Scooby doesn't damage anything.
+Scooby has left the store.
+Scooby locks up the store and leaves.
+
+Tracker: Day 20
+Clerk, Items Sold, Items Purchased, Items Damaged
+Velma , 15 , 10 , 1
+Shaggy , 10 , 3 , 4
+Daphne , 25 , 7 , 2
+Freddy , 11 , 6 , 1
+Scooby , 26 , 8 , 2
+Frank , 9 , 2 , 0

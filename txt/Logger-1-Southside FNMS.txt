@@ -1,117 +1,123 @@
 *** Simulation of Southside FNMS, day 1 ***
 Store opens today, day 1
-Velma is working today.
-Velma has arrived at the store.
-Velma arrives at store.
-Velma checking for arriving items.
+Freddy is working today.
+Freddy has arrived at the store.
+Freddy arrives at store.
+Freddy checking for arriving items.
 0 items have been added to inventory.
 The cash register has $0.00
-Velma checks: $0.00 in register.
+Freddy checks: $0.00 in register.
 Cash register is low on funds.
-Velma gets money from the bank.
+Freddy gets money from the bank.
 The cash register has $1,000.00 after going to the bank.
 The cash register has $1,000.00
-Velma checks: $1,000.00 in register.
-Velma is doing inventory.
-Velma counts 3 paperscore
-Velma counts 3 cd
-Velma counts 3 vinyl
-Velma counts 3 cdplayer
-Velma counts 3 recordplayer
-Velma counts 3 mp3
-Velma counts 3 guitar
-Velma counts 3 bass
-Velma counts 3 mandolin
-Velma counts 3 flute
-Velma counts 3 harmonica
-Velma counts 3 hats
-Velma counts 3 shirts
-Velma counts 3 bandanas
-Velma counts 3 practiceamps
-Velma counts 3 cables
-Velma counts 3 strings
-Velma counts 3 gigbag
-Velma counts 3 cassetteplayer
-Velma counts 3 cassette
-Velma counts 3 saxophone
-Velma is tuning items.
-Velma unsuccessfully tuned a cdplayer
-Velma unsuccessfully tuned a recordplayer
-Velma successfully tuned a mp3
-Velma unsuccessfully tuned a guitar
-Velma unsuccessfully tuned a bass
-Velma successfully tuned a mandolin
-Velma successfully tuned a flute
-Velma unsuccessfully tuned a harmonica
-Velma unsuccessfully tuned a cassetteplayer
-Velma unsuccessfully tuned a saxophone
-Velma unsuccessfully tuned a cdplayer
-Velma unsuccessfully tuned a recordplayer
-Velma successfully tuned a mp3
-Velma successfully tuned a guitar
-Velma unsuccessfully tuned a bass
-Velma successfully tuned a mandolin
-Velma successfully tuned a flute
-Velma unsuccessfully tuned a harmonica
-Velma unsuccessfully tuned a cassetteplayer
-Velma successfully tuned a saxophone
-Velma unsuccessfully tuned a cdplayer
-Velma successfully tuned a recordplayer
-Velma unsuccessfully tuned a mp3
-Velma successfully tuned a guitar
-Velma successfully tuned a bass
-Velma unsuccessfully tuned a mandolin
-Velma successfully tuned a flute
-Velma successfully tuned a harmonica
-Velma successfully tuned a cassetteplayer
-Velma successfully tuned a saxophone
+Freddy checks: $1,000.00 in register.
+Freddy is doing inventory.
+Freddy counts 3 paperscore
+Freddy counts 3 cd
+Freddy counts 3 vinyl
+Freddy counts 3 cdplayer
+Freddy counts 3 recordplayer
+Freddy counts 3 mp3
+Freddy counts 3 guitar
+Freddy counts 3 bass
+Freddy counts 3 mandolin
+Freddy counts 3 flute
+Freddy counts 3 harmonica
+Freddy counts 3 hats
+Freddy counts 3 shirts
+Freddy counts 3 bandanas
+Freddy counts 3 practiceamps
+Freddy counts 3 cables
+Freddy counts 3 strings
+Freddy counts 3 gigbag
+Freddy counts 3 cassetteplayer
+Freddy counts 3 cassette
+Freddy counts 3 saxophone
+Freddy is tuning items.
+Freddy successfully tuned a cdplayer
+Freddy successfully tuned a recordplayer
+Freddy unsuccessfully tuned a mp3
+Freddy unsuccessfully tuned a guitar
+Freddy unsuccessfully tuned a bass
+Freddy unsuccessfully tuned a mandolin
+Freddy unsuccessfully tuned a flute
+Freddy successfully tuned a harmonica
+Freddy successfully tuned a cassetteplayer
+Freddy successfully tuned a saxophone
+Freddy successfully tuned a cdplayer
+Freddy unsuccessfully tuned a recordplayer
+Freddy successfully tuned a mp3
+Freddy unsuccessfully tuned a guitar
+Freddy successfully tuned a bass
+Freddy successfully tuned a mandolin
+Freddy successfully tuned a flute
+Freddy successfully tuned a harmonica
+Freddy successfully tuned a cassetteplayer
+Freddy successfully tuned a saxophone
+Freddy unsuccessfully tuned a cdplayer
+Freddy successfully tuned a recordplayer
+Freddy successfully tuned a mp3
+Freddy successfully tuned a guitar
+Freddy successfully tuned a bass
+Freddy unsuccessfully tuned a mandolin
+Freddy unsuccessfully tuned a flute
+Freddy successfully tuned a harmonica
+Freddy unsuccessfully tuned a cassetteplayer
+Freddy unsuccessfully tuned a saxophone
 There are 63 items in inventory.
-The total value of the inventory is $1,762.00
+The total value of the inventory is $1,281.00
 0 items were damaged while tuning.
-Velma finds 63 items in store, worth $1,762.00
-3 buyers, 1 sellers today.
-Velma serving Buyer 1
-Buyer 1 wants to buy a hats
-Item is hats in excellent condition.
-Velma selling at $50.00
-Velma is selling hats for $50.00 to Buyer 1
+Freddy finds 63 items in store, worth $1,281.00
+2 buyers, 4 sellers today.
+Freddy serving Buyer 1
+Buyer 1 wants to buy a cassetteplayer
+Item is cassetteplayer in good condition.
+Freddy selling at $72.00
+Freddy is selling cassetteplayer for $72.00 to Buyer 1
 updated inventory count: 63
-Velma serving Buyer 2
-Buyer 2 wants to buy a mandolin
-Item is mandolin in excellent condition.
-Velma selling at $96.00
-Velma selling at $86.40
-Velma is selling mandolin for $86.40 to Buyer 2
-updated inventory count: 62
-Item is stringed, Velma is attempting to sell accessories.
-Velma selling Items: mandolin cables cables totaling: 124.4
-Item mandolin cost 86.4
-Item cables cost 28.0
-Item cables cost 10.0
-Velma serving Buyer 3
-Buyer 3 wants to buy a recordplayer
-Item is recordplayer in fair condition.
-Velma selling at $66.00
-Velma is selling recordplayer for $66.00 to Buyer 3
-updated inventory count: 59
-5 items were sold.
-Velma serving Seller 1
-Seller 1 wants to sell a paperscore
-Item is paperscore in excellent condition.
-Velma offers $39.00
-Velma is buying paperscore for $39.00 from Seller 1
-1 items were purchased.
-Velma is cleaning up the store.
+Freddy serving Buyer 2
+Buyer 2 wants to buy a cd
+Item is cd in fair condition.
+Freddy selling at $52.00
+Freddy selling at $46.80
+Buyer 2 wouldn't buy item.
+1 items were sold.
+Freddy serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in poor condition.
+Freddy offers $6.00
+Freddy offers $6.60
+Freddy is buying flute for $6.60 from Seller 1
+Freddy serving Seller 2
+Seller 2 wants to sell a saxophone
+Item is saxophone in poor condition.
+Freddy offers $2.00
+Freddy offers $2.20
+Freddy is buying saxophone for $2.20 from Seller 2
+Freddy serving Seller 3
+Seller 3 wants to sell a cdplayer
+Item is cdplayer in fair condition.
+Freddy offers $6.00
+Freddy is buying cdplayer for $6.00 from Seller 3
+Freddy serving Seller 4
+Seller 4 wants to sell a practiceamps
+Item is practiceamps in excellent condition.
+Freddy offers $18.00
+Freddy offers $19.80
+Freddy is buying practiceamps for $19.80 from Seller 4
+4 items were purchased.
+Freddy is cleaning up the store.
 2 items were damaged while cleaning.
-Velma doesn't damage anything.
-Velma has left the store.
-Velma locks up the store and leaves.
+Freddy doesn't damage anything.
+Freddy has left the store.
+Freddy locks up the store and leaves.
 
 Tracker: Day 1
 Clerk, Items Sold, Items Purchased, Items Damaged
-Velma , 5 , 1 , 0
+Velma , 0 , 0 , 0
 Shaggy , 0 , 0 , 0
 Daphne , 0 , 0 , 0
-Freddy , 0 , 0 , 0
+Freddy , 1 , 4 , 0
 Scooby , 0 , 0 , 0
 Frank , 0 , 0 , 0

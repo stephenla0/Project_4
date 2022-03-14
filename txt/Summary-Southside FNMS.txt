@@ -1,19 +1,19 @@
 Summary of: Southside FNMS
 
 Items remaining in inventory:
-paperscore cd cdplayer recordplayer mp3 guitar bass flute harmonica shirts bandanas cassetteplayer cassette saxophone paperscore mp3 guitar bass harmonica shirts bandanas practiceamps gigbag cassetteplayer cassette saxophone mp3 guitar shirts bandanas cables cassetteplayer cassette cassette cassette cassetteplayer mandolin mandolin mandolin guitar mp3 flute 
+cdplayer mp3 guitar practiceamps saxophone cdplayer practiceamps saxophone saxophone mandolin mandolin cassetteplayer cassetteplayer harmonica harmonica harmonica harmonica cdplayer flute flute cdplayer recordplayer recordplayer vinyl vinyl vinyl bass cd cd cd mp3 bass practiceamps practiceamps cassette cassette cassette cassetteplayer vinyl 
 
 Total value of remaining items:
-$1,138.30
+$805.10
 
 Items sold:
-paperscore cd cdplayer recordplayer mp3 guitar bass flute harmonica shirts bandanas cassetteplayer cassette saxophone paperscore mp3 guitar bass harmonica shirts bandanas practiceamps gigbag cassetteplayer cassette saxophone mp3 guitar shirts bandanas cables cassetteplayer cassette cassette cassette cassetteplayer mandolin mandolin mandolin guitar mp3 flute 
+cdplayer mp3 guitar practiceamps saxophone cdplayer practiceamps saxophone saxophone mandolin mandolin cassetteplayer cassetteplayer harmonica harmonica harmonica harmonica cdplayer flute flute cdplayer recordplayer recordplayer vinyl vinyl vinyl bass cd cd cd mp3 bass practiceamps practiceamps cassette cassette cassette cassetteplayer vinyl 
 
 Total value of sold items:
-$1,904.24
+$4,009.13
 
 Money left in cash register:
-$2,590.64
+$4,024.13
 
 Money added to register from bank:
 $1,000.00

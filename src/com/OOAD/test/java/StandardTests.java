@@ -1,4 +1,4 @@
-import static org.junit.jupiter.api.Assertions.fail;
+/*import static org.junit.jupiter.api.Assertions.fail;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
 import org.junit.jupiter.api.AfterAll;
@@ -47,4 +47,4 @@ class StandardTests {
     static void tearDownAll() {
     }
 
-}
+}*/
