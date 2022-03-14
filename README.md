@@ -1,27 +1,39 @@
-#Project 3, Part 2
+#Project 4, Part 2
 
-Project Members: Ailish Skinner, Stephen Lasko
+Project Members: Stephen Lasko, Ailish SKinner
+
 Java Version: Open JK 17
 
 <p>This project used sample code provided from project 2 and the strategy design</p>
 
-<p>
-Assumptions we made in our code: We have a tracker and logger classes that are different than the interface we were using when printing to the console. This interface was called Logger, 
-but is now called ConsoleLogger instead.
-</p>
-
 
 <p>
-Our patterns are created in multiple files: 
+Patterns are created in multiple files: 
 <br>
+
 Strategy: TuneContext.java, TuneStrategy.java, Haphazard.java, Manual.java, Electronic.java 
 <br>
+
 Observer: ClerkObserver.java, Tracker.java, TrackerDataStructure.java, Logger.java
 <br>
+
 Decorator: DecoratoratingItem.java
+<br>
+
+Command: Command.java, Invoker.java, AskNameCommand.java, AskTimeCommand.java,
+BuyGuitarKitCommand.java, BuyItemCommand.java, EndInteractionCommand.java, SelectStoreCommand.java,
+SellItemCommand.java, Receiver.java, receiveUserInteraction.java
+<br>
+
+Abstract Factory: GuitarKit.java, GuitarKitFactory.java, GuitarKitItem.java, GuitarKitPart.java,
+Kit.java, KitCreator.java, NorthGuitarKitFactory.java, NorthKitCreator.java, SouthGuitarKitFactory.java,
+SouthKitCreator.java
+<br>
+
+Singleton: Tracker.java, Logger.java
 </p>
 
 <p>
 link to UML made in program that isnt cut off from images:
-https://app.diagrams.net/#G1W0Es63NpqVYStIPDNlnadkQqWCCDUBc4
+https://app.diagrams.net/#G16pr9omXINI4UoOkoQLWpRQijJlVON6As
 </p>

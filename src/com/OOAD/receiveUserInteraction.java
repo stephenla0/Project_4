@@ -8,7 +8,7 @@ public class receiveUserInteraction implements ConsoleLogger{
     int selection;
     boolean terminate;
 
-    Invoker invoker;
+    Invoker invoker; //for command pattern
     Receiver receiver;
 
     receiveUserInteraction(Scanner scan, Simulation simulation){
@@ -47,7 +47,7 @@ public class receiveUserInteraction implements ConsoleLogger{
         }
         return selection;
     }
-
+    //load commands in invoker and execute them
     public void doCommand(int select){
         switch (select){
             case 1 ->{

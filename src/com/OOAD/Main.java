@@ -9,11 +9,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 	    Simulation sim = new Simulation();
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in); //allows console inputs
         receiveUserInteraction interact = new receiveUserInteraction(scan, sim);
         int SIM_DAYS = sim.getSimDays(scan);
 	    sim.startSim(SIM_DAYS);
-        sim.lastDay(interact);
+        sim.lastDay(interact); // head to command on last day
 	    sim.summary();
     }
 }

@@ -1,5 +1,7 @@
 package com.OOAD;
 
+
+//invoker for command pattern
 public class Invoker implements ConsoleLogger{
     Command slot;
 

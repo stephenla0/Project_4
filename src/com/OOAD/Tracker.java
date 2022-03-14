@@ -14,7 +14,7 @@ public class Tracker {
 
     public static Tracker getInstance(){
         if(tracker == null){
-            tracker = new Tracker();
+            tracker = new Tracker(); //lazy instant singleton
         }
         return tracker;
     }

@@ -9,7 +9,7 @@ public class Logger {
     BufferedWriter text;
     int day;
     Tracker tracker;
-    private static Logger logger = new Logger();
+    private static Logger logger = new Logger(); // eager instant singleton
 
     Logger() {
         this.tracker=tracker.getInstance();
